@@ -4,14 +4,19 @@
 import json
 
 from flask import Flask, redirect, url_for
-from sqlalchemy.orm import sessionmaker
-from models import engine, Make, Model, Year, Vehicle
+from flask.ext.admin import Admin
+from flask.ext.admin.contrib.sqla import ModelView
+from models import Make, Model, Year, Vehicle
+import database as db
 
 app = Flask("vl")
 app.debug = True
 
-Session = sessionmaker(bind=engine)
-session = Session()
+admin = Admin(app)
+admin.add_view(ModelView(Vehicle, db.session))
+admin.add_view(ModelView(Make, db.session))
+admin.add_view(ModelView(Model, db.session))
+admin.add_view(ModelView(Year, db.session))
 
 @app.route('/')
 def index():
@@ -36,6 +41,8 @@ def vl(*args, **kwargs):
             return "model list"
     else:
         return "make list"
+
+app.secret_key = "f3111bc8-8593-432b-9033-7db48e14685e"
 
 if __name__ == '__main__':
     app.run()

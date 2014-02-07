@@ -1,12 +1,7 @@
-#!/usr/bin/env python
-# encoding: utf-8
-
-from sqlalchemy import create_engine, Column, Integer, String, ForeignKey, Table
-from sqlalchemy.orm import relationship, backref, sessionmaker
-from sqlalchemy.ext.declarative import declarative_base
-
-engine = create_engine('sqlite:///vehicle.db')
-Base = declarative_base()
+from sqlalchemy import Column, Integer, String, ForeignKey, Table
+from sqlalchemy.orm import relationship, backref
+from database import Base
+from custom_types import GUID
 
 year_table = Table('year_table', Base.metadata,
     Column('model_id', Integer, ForeignKey('models.id_')),
@@ -20,6 +15,9 @@ class Make(Base):
     name = Column(String)
     models = relationship("Model", backref='make')
 
+    def __unicode__(self):
+        return "%s" % self.name
+    
     def __repr__(self):
         return "<Make(name='%r')>" % self.name
 
@@ -32,6 +30,9 @@ class Model(Base):
     make_id = Column(Integer, ForeignKey('makes.id_'))
     years = relationship("Year", secondary=year_table)
     
+    def __unicode__(self):
+        return "%s" % (self.name)
+
     def __repr__(self):
         return "<Model(name='%r', make='%r')>" % (self.name, self.make.name)
 
@@ -42,6 +43,9 @@ class Year(Base):
     id_ = Column(Integer, primary_key=True)
     year = Column(Integer)
 
+    def __unicode__(self):
+        return "%d" % self.year
+
     def __repr__(self):
         return "<Year(%r)>" % self.year
 
@@ -49,22 +53,15 @@ class Year(Base):
 class Vehicle(Base):
     __tablename__ = 'vehicles'
 
-    id_ = Column(Integer, primary_key=True)
-    year = Column(Integer)
-    make = Column(String)
-    model = Column(String)
+    guid = Column(GUID(), primary_key=True)
+    year_id = Column(Integer, ForeignKey('years.id_'))
+    make_id = Column(String, ForeignKey('makes.id_'))
+    model_id = Column(String, ForeignKey('models.id_'))
+    year = relationship("Year")
+    make = relationship("Make")
+    model = relationship("Model")
     engine = Column(String)
 
     def __repr__(self):
         return "<Vehicle(year='%r', make='%r', model='%r')>" % (
                 self.year, self.make, self.model)
-
-
-def build_data():
-    Base.metadata.create_all(engine)
-
-def main():
-    build_data()
-
-if __name__ == '__main__':
-    main()

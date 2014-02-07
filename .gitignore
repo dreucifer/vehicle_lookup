@@ -37,3 +37,6 @@ nosetests.xml
 
 # sqlite database files
 *.db
+
+# swap files
+*.swp
