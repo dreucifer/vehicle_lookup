@@ -6,7 +6,7 @@ import json
 from flask import Flask, redirect, url_for
 from flask.ext.admin import Admin
 from flask.ext.admin.contrib.sqla import ModelView
-from models import Make, Model, Year, Vehicle
+from models import Make, Model, Year, Vehicle, Engine, Part
 import database as db
 
 app = Flask("vl")
@@ -14,9 +14,11 @@ app.debug = True
 
 admin = Admin(app)
 admin.add_view(ModelView(Vehicle, db.session))
+admin.add_view(ModelView(Part, db.session))
 admin.add_view(ModelView(Make, db.session))
 admin.add_view(ModelView(Model, db.session))
 admin.add_view(ModelView(Year, db.session))
+admin.add_view(ModelView(Engine, db.session))
 
 @app.route('/')
 def index():
