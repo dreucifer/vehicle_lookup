@@ -17,6 +17,10 @@ class Make(Base):
     def __repr__(self):
         return "<Make(name='%r')>" % self.name
 
+model_years = Table('model_years', Base.metadata,
+    Column('model_id', Integer, ForeignKey('models.id_')),
+    Column('year_id', Integer, ForeignKey('years.id_'))
+)
 
 class Model(Base):
     __tablename__ = 'models'
@@ -24,7 +28,7 @@ class Model(Base):
     id_ = Column(Integer, primary_key=True)
     name = Column(String)
     make_id = Column(Integer, ForeignKey('makes.id_'))
-    years = relationship("Year", secondary=model_year)
+    years = relationship("Year", secondary=model_years)
     
     def __unicode__(self):
         return "%s" % (self.name)
@@ -32,12 +36,6 @@ class Model(Base):
     def __repr__(self):
         return "<Model(name='%r', make='%r')>" % (
                 self.name, self.make.name)
-
-
-model_year = Table('year_table', Base.metadata,
-    Column('model_id', Integer, ForeignKey('models.id_')),
-    Column('year_id', Integer, ForeignKey('years.id_'))
-)
 
 
 class Year(Base):
@@ -92,7 +90,9 @@ class Vehicle(Base):
         return "<Vehicle(guid=%r)>" % (self.guid)
 
 
-vehicle_parts
+vehicle_parts = Table('vehicle_parts', Base.metadata,
+        Column('vehicle_guid', GUID(), ForeignKey('vehicles.guid')),
+        Column('part_guid', GUID(), ForeignKey('parts.guid')))
 
 
 class Part(Base):
