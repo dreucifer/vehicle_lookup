@@ -15,7 +15,11 @@ class Make(Base):
         return "%s" % self.name
     
     def __repr__(self):
-        return "<Make(name='%r')>" % self.name
+        return "<Make(name='%s')>" % self.name
+
+    @property
+    def serialize(self):
+        return self.name
 
 model_years = Table('model_years', Base.metadata,
     Column('model_id', Integer, ForeignKey('models.id_')),
@@ -34,8 +38,12 @@ class Model(Base):
         return "%s" % (self.name)
 
     def __repr__(self):
-        return "<Model(name='%r', make='%r')>" % (
+        return "<Model(name='%s', make='%s')>" % (
                 self.name, self.make.name)
+
+    @property
+    def serialize(self):
+        return self.name
 
 
 class Year(Base):
@@ -48,8 +56,14 @@ class Year(Base):
         return "%d" % self.year
 
     def __repr__(self):
-        return "<Year(%r)>" % self.year
+        return "<Year(%s)>" % self.year
 
+    @property
+    def serialize(self):
+        return self.year
+
+vehicle_engines = Table("vehicle_engines", Base.metadata,
+        Column("vehicle_id", GUID()))
 
 class Engine(Base):
     __tablename__ = 'engines'
