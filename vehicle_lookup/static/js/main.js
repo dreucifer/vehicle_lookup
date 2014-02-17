@@ -7,8 +7,8 @@ function unload_list(dom) {
 
 function load_list(dom, params) {
     $.getJSON( "http://127.0.0.1:5000/vl/?callback=?", params)
-        .done(function( data ) {
-            $.each( data, function( i, item) {
+        .done(function( response ) {
+            $.each( response['data'], function( i, item) {
                 $(dom).append("<option>"+item+"</option>");
             });
             $(dom).prop("disabled", false);

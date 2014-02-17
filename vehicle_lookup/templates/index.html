@@ -12,11 +12,11 @@
 
         <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
 
-        <link rel="stylesheet" href="css/normalize.css">
-        <link rel="stylesheet" href="css/bootstrap.css">
-        <link rel="stylesheet" href="css/bootstrap-theme.css">
-        <link rel="stylesheet" href="css/main.css">
-        <script src="js/vendor/modernizr-2.6.2.min.js"></script>
+        <link rel="stylesheet" href="{{ url_for('static', filename='css/normalize.css') }}">
+        <link rel="stylesheet" href="{{ url_for('static', filename='css/bootstrap.css') }}">
+        <link rel="stylesheet" href="{{ url_for('static', filename='css/bootstrap-theme.css') }}">
+        <link rel="stylesheet" href="{{ url_for('static', filename='css/main.css') }}">
+        <script src="{{ url_for('static', filename='js/vendor/modernizr-2.6.2.min.js') }}"></script>
         <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
         <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
         <!--[if lt IE 9]>
@@ -37,45 +37,24 @@
                     <label for="make">Make: </label>
                     <select id="make" class="form-control" disabled>
                         <option value="#" selected>Select a Make</option>
-                        <option value="acura">Acura</option>
-                        <option value="audi">Audi</option>
-                        <option value="chevy">Chevrolet</option>
-                        <option value="ford">Ford</option>
-                        <option value="saab">Saab</option>
-                        <option value="volvo">Volvo</option>
                     </select>
                 </div>
                 <div class="form-group">
                     <label for="model">Model: </label>
                     <select id="model" class="form-control" disabled>
                         <option value="#" selected>Select a Model</option>
-                        <option value="integra">Integra</option>
-                        <option value="a5">A5</option>
-                        <option value="s10">S10</option>
-                        <option value="f150">F150</option>
-                        <option value="9000">9000</option>
-                        <option value="750">750</option>
                     </select>
                 </div>
                 <div class="form-group">
                     <label for="year">Year: </label>
                     <select id="year" class="form-control" disabled>
                         <option value="#" selected>Select a Year</option>
-                        <option value="1999">1999</option>
-                        <option value="2000">2000</option>
-                        <option value="2001">2001</option>
-                        <option value="2002">2002</option>
-                        <option value="2003">2003</option>
-                        <option value="2004">2004</option>
                     </select>
                 </div>
                 <div class="form-group">
                     <label for="engine">Engine Size: </label>
                     <select id="engine" class="form-control" disabled>
                         <option value="#" selected>Select an Engine</option>
-                        <option value="97">1.6L</option>
-                        <option value="350">5.7L</option>
-                        <option value="427">7.3L</option>
                     </select>
                 </div>
             </form>
@@ -83,9 +62,9 @@
             </div>
         </div>
 
-        <script src="js/vendor/jquery-2.1.0.js"></script>
-        <script src="js/vendor/bootstrap.js"></script>
-        <script src="js/plugins.js"></script>
-        <script src="js/main.js"></script>
+        <script src="{{ url_for('static', filename='js/vendor/jquery-2.1.0.js') }}"></script>
+        <script src="{{ url_for('static', filename='js/vendor/bootstrap.js') }}"></script>
+        <script src="{{ url_for('static', filename='js/plugins.js') }}"></script>
+        <script src="{{ url_for('static', filename='js/main.js') }}"></script>
     </body>
 </html>
