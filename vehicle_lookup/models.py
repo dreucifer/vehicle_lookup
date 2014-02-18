@@ -28,7 +28,7 @@ class Model(db.Base):
     id_ = Column(Integer, primary_key=True)
     name = Column(String)
     make_id = Column(Integer, ForeignKey('makes.id_'))
-    configs = relationship("Config", backref="model")
+    configs = relationship("Config", backref="model", lazy='dynamic')
     
     def __unicode__(self):
         return "%s" % (self.name)
@@ -76,6 +76,13 @@ class Config(db.Base):
     year = relationship("Year", uselist=False)
     engines = relationship("Engine", secondary=config_engines)
 
+    def __unicode__(self):
+        return "%s" % self.year.year
+
+    @property
+    def serialize(self):
+        return self.year.year
+
 
 class Engine(db.Base):
     __tablename__ = 'engines'
@@ -89,6 +96,10 @@ class Engine(db.Base):
 
     def __unicode__(self):
         return "%s" % self.name
+
+    @property
+    def serialize(self):
+        return self.name
 
 
 class Vehicle(db.Base):
@@ -105,7 +116,7 @@ class Vehicle(db.Base):
     engine = relationship("Engine", uselist=False)
 
     def __unicode__(self):
-        "%d %s %s %s" % (
+        return "%d %s %s %s" % (
                 self.year.year,
                 self.make.name,
                 self.model.name,
@@ -165,6 +176,13 @@ def get_or_create_config(session, model):
         session.add(result)
         return result
 
+def get_or_create_vehicle(session, **kwargs):
+    result = Vehicle.query.filter_by(**kwargs).first()
+    if not result:
+        result = Vehicle(**kwargs)
+        session.add(result)
+    return result
+
 def import_data(data_filename):
     import codecs
     from csv import reader
@@ -179,3 +197,22 @@ def import_data(data_filename):
             model.configs.append(Config(year = year))
             db.session.commit()
             print ", ".join([str(year.year), make.name, model.name])
+
+def generate_vehicles():
+    for make in Make.query.all():
+        print make.name
+        for model in make.models:
+            print "\t" + model.name
+            for config in model.configs.all():
+                print "\t\t" + str(config.year.year)
+                for engine in config.engines:
+                    print "\t\t\t" + engine.name
+                    vehicle = get_or_create_vehicle(
+                            db.session,
+                            year = config.year,
+                            make = make,
+                            model = model,
+                            engine = engine)
+                    if vehicle:
+                        print "\t\t\t" + vehicle.__unicode__()
+    db.session.commit()

@@ -32,32 +32,34 @@
         <!-- Add your site or application content here -->
         <div class="container">
             <h1>Vehicle Lookup</h1>
-            <form role="form" id="vehicle_lookup" class="form-inline">
-                <div class="form-group">
-                    <label for="make">Make: </label>
-                    <select id="make" class="form-control" disabled>
-                        <option value="#" selected>Select a Make</option>
-                    </select>
-                </div>
-                <div class="form-group">
-                    <label for="model">Model: </label>
-                    <select id="model" class="form-control" disabled>
-                        <option value="#" selected>Select a Model</option>
-                    </select>
-                </div>
-                <div class="form-group">
-                    <label for="year">Year: </label>
-                    <select id="year" class="form-control" disabled>
-                        <option value="#" selected>Select a Year</option>
-                    </select>
-                </div>
-                <div class="form-group">
-                    <label for="engine">Engine Size: </label>
-                    <select id="engine" class="form-control" disabled>
-                        <option value="#" selected>Select an Engine</option>
-                    </select>
-                </div>
-            </form>
+            <div class="col-md-4">
+                <form role="form" id="vehicle_lookup">
+                    <div class="form-group">
+                        <label for="make">Make: </label>
+                        <select id="make" class="form-control" disabled>
+                            <option value="#" selected>Select a Make</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label for="model">Model: </label>
+                        <select id="model" class="form-control" disabled>
+                            <option value="#" selected>Select a Model</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label for="year">Year: </label>
+                        <select id="year" class="form-control" disabled>
+                            <option value="#" selected>Select a Year</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label for="engine">Engine Size: </label>
+                        <select id="engine" class="form-control" disabled>
+                            <option value="#" selected>Select an Engine</option>
+                        </select>
+                    </div>
+                </form>
+            </div>
             <div id="results">
             </div>
         </div>

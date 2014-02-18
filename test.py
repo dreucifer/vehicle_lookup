@@ -1,4 +1,4 @@
 #!/usr/bin/env python
-from vehicle_lookup.models import import_data
+from vehicle_lookup.models import generate_vehicles
 
-import_data('data.csv')
+generate_vehicles()

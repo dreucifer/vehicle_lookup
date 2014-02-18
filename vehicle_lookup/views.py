@@ -2,19 +2,20 @@ from flask import redirect, url_for, request, render_template
 from flask.ext.admin.contrib.sqla import ModelView
 from wtforms.fields import SelectField
 from vehicle_lookup import app, admin
-from vehicle_lookup.models import Year, Make, Model, Engine, Config
+from vehicle_lookup.models import Year, Make, Model, Engine, Config, Vehicle
 import vehicle_lookup.database as db
 import flask.json as json
 
+class MyModelAdmin(ModelView):
+    column_searchable_list = (Model.name,)
+    inline_models = (Config,)
+
 admin.add_view(ModelView(Year, db.session))
 admin.add_view(ModelView(Make, db.session))
-admin.add_view(ModelView(Model, db.session))
+admin.add_view(MyModelAdmin(Model, db.session))
 admin.add_view(ModelView(Engine, db.session))
 admin.add_view(ModelView(Config, db.session))
-
-class VehicleView(ModelView):
-    def __init__(self, session, **kwargs):
-        pass
+admin.add_view(ModelView(Vehicle, db.session))
 
 @app.route('/')
 def index():
@@ -36,16 +37,18 @@ def vl():
         models = makes.models.order_by(Model.name).all()
 
         if model:
+            configs = makes.models.filter_by(name = model).first().configs
             if year:
+                year_obj = Year.query.filter_by(year = year).first()
+                engines = configs.filter_by(year = year_obj).first().engines
                 if engine:
                     return 'unique vehicle GUID'
                 else:
-                    return 'engine list'
+                    status = 'Success'
+                    data = [eng.serialize for eng in engines]
             else:
-
-                years = makes.models.filter_by(name = model).first().years
                 status = 'Success'
-                data = [year.serialize for year in years]
+                data = [config.serialize for config in configs.all()]
         else:
             status = 'Success'
             data = [line.serialize for line in models]

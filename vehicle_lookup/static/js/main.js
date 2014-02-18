@@ -46,12 +46,14 @@ $(function(){
 
     $("#year").on("change", function(){
         console.log($(this).attr("id") + " changed to " + $(this).val());
-        $("#engine").prop("disabled", false);
+        unload_list("#engine");
+        load_list("#engine",
+            {make: $("#make").val(), model: $("#model").val(), year: $(this).val()});
     });
 
     $("#engine").on("change", function(){
         console.log($(this).attr("id") + " changed to " + $(this).val());
         $("#results").html(
-            "Boom, results for " + $("#year").val() + " " + $("#make").val() + " " + $("#model").val());
+            "Boom, results for " + $("#year").val() + " " + $("#make").val() + " " + $("#model").val() + " " + $("#engine").val());
     });
 });
