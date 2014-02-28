@@ -41,3 +41,10 @@ nosetests.xml
 # swap files
 *.swp
 *.swo
+
+# virtualenv
+bin/
+lib/
+lib64/
+include/
+pysqlite2-doc

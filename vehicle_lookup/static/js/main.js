@@ -6,12 +6,40 @@ function unload_list(dom) {
 }
 
 function load_list(dom, params) {
-    $.getJSON( "http://127.0.0.1:5000/vl/?callback=?", params)
+    $.post( "http://127.0.0.1:5000/vl/", params, 'json')
         .done(function( response ) {
-            $.each( response['data'], function( i, item) {
+            var obj = $.parseJSON(response);
+            $.each( obj.data, function( i, item) {
                 $(dom).append("<option>"+item+"</option>");
             });
             $(dom).prop("disabled", false);
+        })
+        .fail(function() {
+            alert("Failed");
+        });
+}
+
+function get_vehicle(params) {
+    $.post( "http://127.0.0.1:5000/vl/", params, 'json')
+        .done(function( response ) {
+            var obj = $.parseJSON(response);
+            get_parts("#results", {guid: obj.data[0]});
+        })
+        .fail(function() {
+            alert("FUCK");
+        });
+}
+
+function get_parts(dom, params) {
+    $.getJSON( "http://127.0.0.1:5000/pt/?callback=?", params)
+        .done(function( response ) {
+            if (response['status'] == 'Success') {
+                $(dom).html("<table class='table table-striped' id='parts'><thead><th>Part Name</th></thead></table>")
+                $.each( response['data'], function(key, val){
+                    $(dom).children('#parts').append(
+                        '<tr><td><a href="' + val['url'] + '">' + val['name'] + '</a></td></tr>');
+                });
+            }
         })
         .fail(function() {
             alert("Failed");
@@ -53,7 +81,10 @@ $(function(){
 
     $("#engine").on("change", function(){
         console.log($(this).attr("id") + " changed to " + $(this).val());
-        $("#results").html(
-            "Boom, results for " + $("#year").val() + " " + $("#make").val() + " " + $("#model").val() + " " + $("#engine").val());
+        get_vehicle({
+            make: $("#make").val(),
+            model: $("#model").val(),
+            year: $("#year").val(),
+            engine: $(this).val()});
     });
 });
