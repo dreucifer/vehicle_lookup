@@ -38,7 +38,15 @@
                         <label for="make" class="control-label col-md-3">Make: </label>
                         <div class="col-md-9">
                             <select id="make" class="form-control" disabled>
-                                <option value="#" selected>Select a Make</option>
+                                <option value="-1" selected>Select a Make</option>
+                            </select>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label for="type" class="control-label col-md-3">Type: </label>
+                        <div class="col-md-9">
+                            <select id="type" class="form-control" disabled>
+                                <option value="-1" selected>Select a Type</option>
                             </select>
                         </div>
                     </div>
@@ -70,6 +78,7 @@
             </div>
             <div id="results" class="col-md-6">
             </div>
+            <script>document.write('test');</script>
         </div>
 
         <script src="{{ url_for('static', filename='js/vendor/jquery-2.1.0.js') }}"></script>

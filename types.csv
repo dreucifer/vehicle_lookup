@@ -1,0 +1,1327 @@
+makeID,ID,makeName,Name
+ABG,Tractors,ABG (Allg Baumasch Gesellsch),Tractor
+44,6,AM General,Truck
+ACADIA,BOAT,Acadia,Boat
+58,5,Acura,Car
+58,6,Acura,Truck
+ADAMS,Graders,Adams Division,Grader
+ADAMS,Loaders,Adams Division,Loader
+ADAMS,Motor Grad,Adams Division,Motor Grader
+ADAMS,33,Adams Division,Snowblower
+AERO,BOAT,Aero,Boat
+AEROCEANIC,BOAT,Aeroceanic,Boat
+AFRON,Various Eq,Afron,Various Equipment
+835,17,Ag-Chem,Sprayer
+643,Tractors,Agco Allis,Tractor
+AGCO GLEAN,16,Agco Gleaner,Combine
+AGCO SPRA,17,Agco Spra Coupe,Sprayer
+AGCO STAR,Tractors,Agco Star,Tractor
+AGCO WHITE,Tractors,Agco White,Tractor
+836,14,Agco,Agricultural Tractor
+836,Tractors,Agco,Tractor
+AIFO,Engines-Ma,Aifo,Engine - Marine
+AIFO,Engines-In,Aifo,Engines - Industrial
+ALBIN,BOAT,Albin,Boat
+EU ALFA,5,Alfa Romeo - Europe,Car
+16,5,Alfa Romeo,Car
+ALIEN MOTO,44,Alien Motors,ATV
+ALLIS CHAL,15,Allis Chalmers,Baler
+ALLIS CHAL,16,Allis Chalmers,Combine
+ALLIS CHAL,Crawler Tr,Allis Chalmers,Crawler Tractor
+ALLIS CHAL,Crawlers,Allis Chalmers,Crawlers
+ALLIS CHAL,Dozers,Allis Chalmers,Dozer
+ALLIS CHAL,Generators,Allis Chalmers,Generator
+ALLIS CHAL,Graders,Allis Chalmers,Grader
+ALLIS CHAL,Lift Truck,Allis Chalmers,Lift Truck
+ALLIS CHAL,Loaders,Allis Chalmers,Loader
+ALLIS CHAL,Loaders BH,Allis Chalmers,Loader - Backhoe
+ALLIS CHAL,Motor Grad,Allis Chalmers,Motor Grader
+ALLIS CHAL,Power Unit,Allis Chalmers,Power Unit
+ALLIS CHAL,Rough Terr,Allis Chalmers,Rough Terrain
+ALLIS CHAL,Scrapers,Allis Chalmers,Scraper
+ALLIS CHAL,17,Allis Chalmers,Sprayer
+ALLIS CHAL,Tractors F,Allis Chalmers,Tractor - Farm
+ALLIS CHAL,Tractors I,Allis Chalmers,Tractor - Industrial
+ALLIS CHAL,Tractor Lo,Allis Chalmers,Tractor Loader
+ALLIS CHAL,Tractor Sc,Allis Chalmers,Tractor Scraper
+ALLMAND,Tractors,Allmand,Tractor
+ALLMAND,Various Eq,Allmand,Various Equipment
+66,5,American Motors,Car
+AMIDA,Various Eq,Amida,Various Equipment
+APACHE,17,Apache,Sprayer
+APPLIED EN,Hydraulic ,Applied Energy,Hydraulic Motor
+1170,46,Aprilia,Offroad Motorcycle
+1170,2189,Aprilia,Scooter
+1170,49,Aprilia,Street Motorcycle
+1171,44,Arctic Cat,ATV
+1171,47,Arctic Cat,Personal Watercraft
+1171,48,Arctic Cat,Snowmobile
+1171,50,Arctic Cat,Utility Vehicle
+89,5,Asuna,Car
+89,6,Asuna,Truck
+ATLAS COPC,Compressor,Atlas Copco,Compressor
+ATLAS COPC,Misc. Equi,Atlas Copco,Misc. Equipment
+ATLAS COPC,Off-Road &,Atlas Copco,Off-Road & Mining Truck
+ATLAS,Excavators,Atlas,Excavator
+ATLAS,Loaders,Atlas,Loader
+EU AUDI,5,Audi - Europe,Car
+73,5,Audi,Car
+73,6,Audi,Truck
+AUSA,Lift Truck,Ausa,Lift Truck
+1223,5,Austin Healey,Car
+AUSTIN WES,Cranes,Austin Western,Crane
+AUSTIN WES,Graders,Austin Western,Grader
+AUSTIN WES,Rollers,Austin Western,Roller
+AUSTIN WES,Sweepers,Austin Western,Sweeper
+4,5,Austin,Car
+1079,HD TRUCK,Autocar,Heavy Duty
+847,Power Unit,Avco,Power Unit
+BMS MOTOR,44,BMS Motorsports,ATV
+BMS MOTOR,Carts,BMS Motorsports,Cart
+BMS MOTOR,Dune Buggy,BMS Motorsports,Dune Buggy
+BMS MOTOR,2189,BMS Motorsports,Scooter
+BMS MOTOR,50,BMS Motorsports,Utility Vehicle
+EU BMW,5,BMW - Europe,Car
+31,5,BMW,Car
+31,Engines-Ma,BMW,Engine - Marine
+31,40,BMW,Motorcycle
+31,46,BMW,Offroad Motorcycle
+31,49,BMW,Street Motorcycle
+31,6,BMW,Truck
+BPM,Engines-Ma,BPM,Engine - Marine
+BAJA MOTOR,44,Baja Motorsports,ATV
+BAKER,Lift Truck,Baker,Lift Truck
+BAKER,Misc. Equi,Baker,Misc. Equipment
+BARBER GRE,Finishers,Barber Greene,Finisher
+BARR,BOAT,Barr,Boat
+BAUDOUIN,Engines-Ma,Baudouin,Engine - Marine
+BAYLINER,BOAT,Bayliner,Boat
+BEDFORD,Engines-Ma,Bedford,Engine - Marine
+BELARUS,Tractors,Belarus,Tractor
+BELL,Graders,Bell,Grader
+BELL,Loaders BH,Bell,Loader - Backhoe
+1080,12,Bering,Medium Duty
+BERKLEY JE,Engines-Ma,Berkley Jet,Engine - Marine
+656,Buses,Bluebird,Bus
+853,Excavators,Bobcat,Excavator
+853,Loaders,Bobcat,Loader
+853,SkidSteerL,Bobcat,Skid Steer Loader
+853,Trenchers,Bobcat,Trencher
+853,50,Bobcat,Utility Vehicle
+853,Wheel Trac,Bobcat,Wheel Tractor
+853,Wood Loade,Bobcat,Wood Loader
+BOMAG,Compactors,Bomag,Compactor
+1177,44,Bombardier,ATV
+1177,40,Bombardier,Motorcycle
+1177,50,Bombardier,Utility Vehicle
+BOSS,Plow Motor,Boss,Plow Motor
+BRIGGS & S,Engines-In,Briggs & Stratton,Engines - Industrial
+859,14,Buhler Genesis,Agricultural Tractor
+860,14,Buhler Versatile,Agricultural Tractor
+860,Tractors A,Buhler Versatile,Tractor - Agricultural
+45,5,Buick,Car
+45,6,Buick,Truck
+45,7,Buick,Van
+BUKH,Engines-Ma,Bukh,Engine - Marine
+46,5,Cadillac,Car
+46,6,Cadillac,Truck
+CARRIER TR,Generators,Carrier Transicold,Generator
+CARRIER TR,Heating Un,Carrier Transicold,Heating Unit
+CARRIER TR,Misc. Equi,Carrier Transicold,Misc. Equipment
+CARRIER TR,Trailer Un,Carrier Transicold,Trailer Unit
+CARRIER TR,Truck Unit,Carrier Transicold,Truck Unit
+566,14,Case,Agricultural Tractor
+566,15,Case,Baler
+566,16,Case,Combine
+566,Cotton Pic,Case,Cotton Picker
+566,Cranes,Case,Crane
+566,Crawler Ex,Case,Crawler Excavator
+566,Crawler Lo,Case,Crawler Loader
+566,Crawler Tr,Case,Crawler Tractor
+566,Crawlers,Case,Crawlers
+566,Dozers,Case,Dozer
+566,Excavators,Case,Excavator
+566,Feller Bun,Case,Feller Buncher
+566,Floater,Case,Floater
+566,Lift Truck,Case,Lift Truck
+566,Loaders,Case,Loader
+566,Loaders BH,Case,Loader - Backhoe
+566,Power Unit,Case,Power Unit
+566,Rollers,Case,Roller
+566,Shovels,Case,Shovel
+566,SkidSteerL,Case,Skid Steer Loader
+566,17,Case,Sprayer
+566,Telescopic,Case,Telescopic Handler
+566,TrackLoad,Case,Track Loader
+566,Tractors,Case,Tractor
+566,Tractors C,Case,Tractor - Compact
+566,Tractors F,Case,Tractor - Farm
+566,Tractors I,Case,Tractor - Industrial
+566,Tractors L,Case,Tractor - Lawn
+566,Trenchers,Case,Trencher
+566,Uni-Loader,Case,Uni-Loader
+566,Wheel Load,Case,Wheel Loader
+566,Wheel Trac,Case,Wheel Tractor
+566,18,Case,Windrower
+566,Woodlands,Case,Woodland
+1081,Backhoes,Caterpillar,Backhoe
+1081,Compactors,Caterpillar,Compactor
+1081,Crawler Lo,Caterpillar,Crawler Loader
+1081,Dozers,Caterpillar,Dozer
+1081,Engines-Ma,Caterpillar,Engine - Marine
+1081,Engines,Caterpillar,Engine Medium Duty
+1081,Excavators,Caterpillar,Excavator
+1081,Forestry L,Caterpillar,Forestry Loader
+1081,Graders,Caterpillar,Grader
+1081,Lift Truck,Caterpillar,Lift Truck
+1081,Loaders,Caterpillar,Loader
+1081,Loaders BH,Caterpillar,Loader - Backhoe
+1081,Misc. Equi,Caterpillar,Misc. Equipment
+1081,Motor Grad,Caterpillar,Motor Grader
+1081,Off-Road &,Caterpillar,Off-Road & Mining Truck
+1081,Paving Equ,Caterpillar,Paving Equipment
+1081,Pipelayers,Caterpillar,Pipelayer
+1081,Rollers,Caterpillar,Roller
+1081,Scrapers,Caterpillar,Scraper
+1081,Skid Steer,Caterpillar,Skid Steer
+1081,SkidSteerL,Caterpillar,Skid Steer Loader
+1081,Swathers,Caterpillar,Swather
+1081,Telehandle,Caterpillar,Telehandler
+1081,Tool Carri,Caterpillar,Tool Carrier
+1081,TrackLoad,Caterpillar,Track Loader
+1081,Track Trac,Caterpillar,Track Tractor
+1081,Tractors F,Caterpillar,Tractor - Farm
+1081,Tractors I,Caterpillar,Tractor - Industrial
+1081,Wheel Load,Caterpillar,Wheel Loader
+1081,Wheel Skid,Caterpillar,Wheel Skidder
+1081,WheelTracD,Caterpillar,Wheel Tractor Dozer
+CHAMPION,Graders,Champion,Grader
+EU CHEVY,5,Chevrolet - Europe,Car
+CHEV M ENG,Tilt & Tri,Chevrolet Marine Engine,Tilt & Trim
+47,5,Chevrolet,Car
+47,Medium & H,Chevrolet,Medium & Heavy-Duty Trucks
+47,2187,Chevrolet,Medium/Heavy Truck
+47,6,Chevrolet,Truck
+47,7,Chevrolet,Van
+CHRIS CRAF,BOAT,Chris Craft,Boat
+CHRIS CRAF,Engines-Ma,Chris Craft,Engine - Marine
+EU CHRYSL,5,Chrysler - Europe,Car
+EU CHRYSL,7,Chrysler - Europe,Van
+CHRY M ENG,Engines-Ma,Chrysler Marine Engine,Engine - Marine
+39,5,Chrysler,Car
+39,6,Chrysler,Truck
+39,7,Chrysler,Van
+EU CITROEN,5,Citroen - Europe,Car
+EU CIT LCV,7,Citroen LCV - Europe,Van
+871,Choppers,Claas,Chopper
+871,16,Claas,Combine
+871,Combines /,Claas,Combine / Harvester
+CLARK,Cranes,Clark,Crane
+CLARK,Dozers,Clark,Dozer
+CLARK,Graders,Clark,Grader
+CLARK,Lift Truck,Clark,Lift Truck
+CLARK,Misc. Equi,Clark,Misc. Equipment
+CLARK,Scrapers,Clark,Scraper
+CLARK,SkidSteerL,Clark,Skid Steer Loader
+CLARK,Skidders,Clark,Skidder
+CLARK,Tow Tracto,Clark,Tow Tractor
+CLARK,Tractor Sh,Clark,Tractor Shovel
+CLUB CAR,Carts,Club Car,Cart
+COCKSHUTT,15,Cockshutt,Baler
+COCKSHUTT,16,Cockshutt,Combine
+COCKSHUTT,Tractors,Cockshutt,Tractor
+COCKSHUTT,18,Cockshutt,Windrower
+COLEMAN,Generators,Coleman,Generator
+COMMANDER,BOAT,Commander,Boat
+CONSOL_DIE,Engine,Consolidated Diesel,Engine Heavy Duty
+CONSTRUCTI,Graders,Construction Equipment Co.,Grader
+CONSTRUCTI,Misc. Truc,Construction Equipment Co.,Misc. Truck
+CONSTRUCTI,Tournapuls,Construction Equipment Co.,Tournapul
+570,Engines-In,Continental,Engines - Industrial
+CORNIVER,Compactors,Corniver,Compactor
+CRUSADER,BOAT,Crusader,Boat
+627,Mowers - P,Cub Cadet,Mower - Professional
+627,MowersRBHD,Cub Cadet,Mower - Ride Behind
+627,Mowers - R,Cub Cadet,Mower - Riding
+627,Mowers - W,Cub Cadet,Mower - Walk Behind
+627,MowersWide,Cub Cadet,Mower - Wide Area
+627,Mowers - Z,Cub Cadet,Mower - Zero Turn
+627,Tractors C,Cub Cadet,Tractor - Compact
+627,Tractors G,Cub Cadet,Tractor - Garden
+627,Tractors L,Cub Cadet,Tractor - Lawn
+627,TractorsUT,Cub Cadet,Tractor - Utility
+627,TractorsZT,Cub Cadet,Tractor - Zero Turn
+627,50,Cub Cadet,Utility Vehicle
+CUMMINS EN,Engines,Cummins Engines,Engine Medium Duty
+CUMMINS_FP,Pumps,Cummins Fire Power,Pump
+CUMMINS,Engines-Ma,Cummins Marine Engines,Engine - Marine
+CUMMINS ME,Engines-Ma,Cummins Mercruiser,Engine - Marine
+CUMMINS ME,Stern Driv,Cummins Mercruiser,Stern Drive
+CUSHMAN,Carts,Cushman,Cart
+DAF EU,HD TRUCK,DAF - Europe,Heavy Duty
+547,Engines-Ma,DAF,Engine - Marine
+547,HD TRUCK,DAF,Heavy Duty
+DMT_CORP,Misc. Equi,DMT Corporation,Misc. Equipment
+EU DACIA,5,Dacia - Europe,Car
+EU DAEWOO,5,Daewoo - Europe,Car
+18,5,Daewoo,Car
+18,Lift Truck,Daewoo,Lift Truck
+EU DAIHAT,5,Daihatsu - Europe,Car
+EU DAI LCV,6,Daihatsu LCV - Europe,Truck
+EU DAI LCV,7,Daihatsu LCV - Europe,Van
+19,5,Daihatsu,Car
+19,Engines-In,Daihatsu,Engines - Industrial
+19,6,Daihatsu,Truck
+DAVID_BROW,Tractors F,David Brown,Tractor - Farm
+DAVY_COMP,Compressor,Davy Compressors,Compressor
+DAYTONA,Engines-Ma,Daytona,Engine - Marine
+35,5,DeLorean,Car
+DEARBORN,Engines-Ma,Dearborn,Engine - Marine
+DEINES,28,Deines,Lawn & Garden Tractor
+EU DENNIS,HD TRUCK,Dennis - Europe,Heavy Duty
+DETROIT DI,Engines-Ma,Detroit Diesel,Engine - Marine
+DEUTZ DITE,Engines-Ma,Deutz Diter,Engine - Marine
+DEUTZ,Engines-Ma,Deutz,Engine - Marine
+DEUTZ,Engines-In,Deutz,Engines - Industrial
+DEUTZ,Loaders,Deutz,Loader
+DEUTZ,Tractors,Deutz,Tractor
+DEUTZ-ALLI,16,Deutz-Allis,Combine
+DEUTZ-ALLI,Tractors,Deutz-Allis,Tractor
+879,16,Deutz-Fahr,Combine
+879,Tractors,Deutz-Fahr,Tractor
+DIAMOND T,HD TRUCK,Diamond T,Heavy Duty
+DITCH_WITC,Misc. Equi,Ditch Witch,Misc. Equipment
+DITCH_WITC,Plow Motor,Ditch Witch,Plow Motor
+DITCH_WITC,Trenchers,Ditch Witch,Trencher
+EU DODGE,5,Dodge - Europe,Car
+40,5,Dodge,Car
+40,2187,Dodge,Medium/Heavy Truck
+40,6,Dodge,Truck
+40,7,Dodge,Van
+DOOSAN,Lift Truck,Doosan,Lift Truck
+DORMAN,Engines-Ma,Dorman,Engine - Marine
+DOW_WARNER,Misc. Equi,Dow Warner,Misc. Equipment
+DRESSER,Cranes,Dresser,Crane
+DRESSER,Crawlers,Dresser,Crawlers
+DRESSER,Loaders,Dresser,Loader
+DRESSER,TrackLoad,Dresser,Track Loader
+DRESSER,Track Trac,Dresser,Track Tractor
+DRESSER,Tractors,Dresser,Tractor
+DRESSER,Truck Unit,Dresser,Truck Unit
+DRIFTECH,Misc. Equi,Driftech,Misc. Equipment
+DROTT MFG.,Cranes,Drott Mfg.,Crane
+DROTT MFG.,Crawlers,Drott Mfg.,Crawlers
+DROTT MFG.,Shovels,Drott Mfg.,Shovel
+1183,49,Ducati,Street Motorcycle
+DYNAPAC,Compactors,Dynapac,Compactor
+EU ERF,HD TRUCK,ERF - Europe,Heavy Duty
+EZ-GO,Carts,EZ-Go,Cart
+EZ-GO,Turf Carts,EZ-Go,Turf Cart
+EZ-GO,50,EZ-Go,Utility Vehicle
+41,44,Eagle,ATV
+41,5,Eagle,Car
+41,40,Eagle,Motorcycle
+41,2189,Eagle,Scooter
+EATON,Lift Truck,Eaton,Lift Truck
+EIMCO_JC,Misc. Equi,Eimco Jarvis Clark,Misc. Equipment
+ELGIN SWEE,Sweepers,Elgin Sweeper,Sweeper
+ENVIRO,Misc. Equi,Enviro-Screene,Misc. Equipment
+ETNYRE,Crawlers,Etnyre,Crawlers
+ETNYRE,Misc. Equi,Etnyre,Misc. Equipment
+ETON,44,Eton,ATV
+ETON,Scooters,Eton,Scooters
+EUCLID,Crawlers,Euclid,Crawlers
+EUCLID,Loaders,Euclid,Loader
+EUCLID,Scrapers,Euclid,Scraper
+EUCLID,Tractors,Euclid,Tractor
+EUCLID,Truck Unit,Euclid,Truck Unit
+EUCLID,Wagons,Euclid,Wagon
+EVINRUDE,Engines-Ma,Evinrude,Engine - Marine
+EVINRUDE,Tilt & Tri,Evinrude,Tilt & Trim
+FNM (CMD),Engines-Ma,FNM (CMD),Engine - Marine
+EU FSO,5,FSO - Europe,Car
+EU FSO LCV,7,FSO LCV - Europe,Van
+FABTEK,Misc. Equi,Fabtek,Misc. Equipment
+FAHR,16,Fahr,Combine
+FAHR,18,Fahr,Windrower
+FARYMAN,Engines-Ma,Faryman,Engine - Marine
+886,Tractors A,Fendt,Tractor - Agricultural
+FENNER,Hydraulic ,Fenner,Hydraulic Motor
+FERMEC,Loaders BH,Fermec,Loader - Backhoe
+FERMEC,Loaders TR,Fermec,Loader - Tractor
+78,5,Ferrari,Car
+EU FIAT,Buses,Fiat - Europe,Bus
+EU FIAT,5,Fiat - Europe,Car
+EU FIAT,HD TRUCK,Fiat - Europe,Heavy Duty
+EU FIAT,Tractors,Fiat - Europe,Tractor
+EU FIATLCV,7,Fiat LCV - Europe,Van
+7,5,Fiat,Car
+7,7,Fiat,Van
+FIAT-ALLIS,Crawler Do,Fiat-Allis,Crawler Dozer
+FIAT-ALLIS,Crawler Tr,Fiat-Allis,Crawler Tractor
+FIAT-ALLIS,Crawlers,Fiat-Allis,Crawlers
+FIAT-ALLIS,Excavators,Fiat-Allis,Excavator
+FIAT-ALLIS,Graders,Fiat-Allis,Grader
+FIAT-ALLIS,Loaders,Fiat-Allis,Loader
+FIAT-ALLIS,Motor Grad,Fiat-Allis,Motor Grader
+FIAT-ALLIS,Tractors,Fiat-Allis,Tractor
+FIAT-ALLIS,Tractors A,Fiat-Allis,Tractor - Agricultural
+FIAT-ALLIS,Tractor Sc,Fiat-Allis,Tractor Scraper
+FIAT-ALLIS,Wheel Load,Fiat-Allis,Wheel Loader
+FIAT-HESST,Tractors,Fiat-Hesston,Tractor
+FIAT-HITAC,Excavators,Fiat-Hitachi,Excavator
+FISHER,Plow Motor,Fisher,Plow Motor
+FLAGSHIP,BOAT,Flagship,Boat
+FLAHERTY,Misc. Equi,Flaherty,Misc. Equipment
+FLEXI-COIL,Misc. Equi,Flexi-Coil,Misc. Equipment
+FLEXTRAC,Misc. Equi,Flextrac Nodwell,Misc. Equipment
+FLOYD,Misc. Equi,Floyd,Misc. Equipment
+EU FODEN,HD TRUCK,Foden - Europe,Heavy Duty
+FORCE,Engines-Ma,Force,Engine - Marine
+FORCE,Tilt & Tri,Force,Tilt & Trim
+EU FORD,5,Ford - Europe,Car
+EU FORD,HD TRUCK,Ford - Europe,Heavy Duty
+EU FORD,7,Ford - Europe,Van
+FORD CASTO,Engines-Ma,Ford Castoldi,Engine - Marine
+FORD FENWI,Engines-Ma,Ford Fenwick,Engine - Marine
+FORD FORNA,Engines-Ma,Ford Fornaut,Engine - Marine
+EU FORDLCV,5,Ford LCV - Europe,Car
+EU FORDLCV,6,Ford LCV - Europe,Truck
+EU FORDLCV,7,Ford LCV - Europe,Van
+FORD M ENG,Engines-Ma,Ford Marine Engine,Engine - Marine
+54,Backhoes,Ford,Backhoe
+54,15,Ford,Baler
+54,Buses,Ford,Bus
+54,5,Ford,Car
+54,16,Ford,Combine
+54,Engines-Ma,Ford,Engine - Marine
+54,Engines,Ford,Engine Medium Duty
+54,Engines-In,Ford,Engines - Industrial
+54,HD TRUCK,Ford,Heavy Duty
+54,2187,Ford,Medium/Heavy Truck
+54,SkidSteerL,Ford,Skid Steer Loader
+54,Tractors C,Ford,Tractor - Compact
+54,Tractors F,Ford,Tractor - Farm
+54,Tractors I,Ford,Tractor - Industrial
+54,6,Ford,Truck
+54,7,Ford,Van
+FORDSON,Tractors,Fordson,Tractor
+497,HD TRUCK,Freightliner,Heavy Duty
+497,12,Freightliner,Medium Duty
+497,2187,Freightliner,Medium/Heavy Truck
+497,7,Freightliner,Van
+FUCHS,Excavators,Fuchs,Excavator
+48,2187,GMC,Medium/Heavy Truck
+48,6,GMC,Truck
+48,7,GMC,Van
+GMI,2189,GMI,Scooter
+GALION,Cranes,Galion,Crane
+GALION,Graders,Galion,Grader
+GALION,Rollers,Galion,Roller
+895,Graders,Gehl,Grader
+895,Skid Steer,Gehl,Skid Steer
+GENERAC,Engines-In,Generac,Engines - Industrial
+GENERAC,Generators,Generac,Generator
+GENERAL PR,Engines-Ma,General Propulsion,Engine - Marine
+GENIE,Generators,Genie Industries,Generator
+50,5,Geo,Car
+50,6,Geo,Truck
+GILCREST,Paving Equ,Gilcrest,Paving Equipment
+GILLING,Buses,Gilling,Bus
+GLASTRON,Engines-Ma,Glastron,Engine - Marine
+GLENWOOD,Engines-Ma,Glenwood,Engine - Marine
+GO SCOOT,44,Go Scoot,ATV
+GODWIN,Generators,Godwin,Generator
+GODWIN,Pumps,Godwin,Pump
+GOODALL,Power Unit,Goodall,Power Unit
+GRADALL,Excavators,Gradall,Excavator
+GRADALL,Graders,Gradall,Grader
+GRADALL,Handlers,Gradall,Handler
+GRADALL,Misc. Equi,Gradall,Misc. Equipment
+GRAFCO,Misc. Equi,Grafco,Misc. Equipment
+703,Tractors L,Grasshopper,Tractor - Lawn
+704,Tractors L,Gravely,Tractor - Lawn
+GRAY,Engines-Ma,Gray,Engine - Marine
+GREENWICH,BOAT,Greenwich,Boat
+GRIMMER,Compressor,Grimmer Schmidt,Compressor
+GROVE MFG.,Cranes,Grove Mfg.,Crane
+GUARDIAN,BOAT,Guardian,Boat
+HALE FIRE,Misc. Equi,Hale Fire Pump Company,Misc. Equipment
+HAMM,Rollers,Hamm,Roller
+HANSEN,BOAT,Hansen,Boat
+HARDIN,BOAT,Hardin,Boat
+HARDIN,Stern Driv,Hardin,Stern Drive
+1187,40,Harley Davidson,Motorcycle
+1187,49,Harley Davidson,Street Motorcycle
+HARLO,Lift Truck,Harlo,Lift Truck
+HARMAN,BOAT,Harman,Boat
+HATZ,Engines,Hatz,Engine Medium Duty
+HAWKPOWER,Generators,Hawkpower,Generator
+HERCULES,Engine,Hercules,Engine Heavy Duty
+903,Tractors,Hesston,Tractor
+903,18,Hesston,Windrower
+499,Engines-Ma,Hino,Engine - Marine
+499,Engine,Hino,Engine Heavy Duty
+499,Engines-In,Hino,Engines - Industrial
+499,12,Hino,Medium Duty
+499,2187,Hino,Medium/Heavy Truck
+HITACHI,Excavators,Hitachi,Excavator
+HOLDEN EU,5,Holden - Europe,Car
+HOLDEN EU,6,Holden - Europe,Truck
+HOLMANN-MO,Engines-Ma,Holmann-Moody,Engine - Marine
+EU HONDA,5,Honda - Europe,Car
+EU HONDA,6,Honda - Europe,Truck
+EU HONDA,7,Honda - Europe,Van
+EU HON LCV,7,Honda LCV - Europe,Van
+59,44,Honda,ATV
+59,5,Honda,Car
+59,Engines-Ma,Honda,Engine - Marine
+59,46,Honda,Offroad Motorcycle
+59,47,Honda,Personal Watercraft
+59,2189,Honda,Scooter
+59,Small Engi,Honda,Small Engine
+59,49,Honda,Street Motorcycle
+59,6,Honda,Truck
+59,7,Honda,Van
+HOUGH,Dozers,Hough,Dozer
+HOUGH,Misc. Equi,Hough,Misc. Equipment
+HOUGH,Payloaders,Hough,Payloader
+HOUGH,Paymovers,Hough,Paymover
+HUBER,Cranes,Huber,Crane
+HUBER,Graders,Huber,Grader
+HUBER,Maintainer,Huber,Maintainer
+HUBER,Rollers,Huber,Roller
+93,6,Hummer,Truck
+629,50,Husqvarna,Utility Vehicle
+HY-DYNAMIC,Backhoes,Hy-Dynamic,Backhoe
+HY-DYNAMIC,Cranes,Hy-Dynamic,Crane
+HY-DYNAMIC,Loaders,Hy-Dynamic,Loader
+HYSTER,Compactors,Hyster,Compactor
+HYSTER,Cranes,Hyster,Crane
+HYSTER,Lift Truck,Hyster,Lift Truck
+HYSTER,Rollers,Hyster,Roller
+HYSTER,Straddle T,Hyster,Straddle Truck
+EU HYUNDAI,5,Hyundai - Europe,Car
+EU HYUNDAI,6,Hyundai - Europe,Truck
+EU HYUNDAI,7,Hyundai - Europe,Van
+EU HYU LCV,6,Hyundai LCV - Europe,Truck
+EU HYU LCV,7,Hyundai LCV - Europe,Van
+3,5,Hyundai,Car
+3,Excavators,Hyundai,Excavator
+3,Medium & H,Hyundai,Medium & Heavy-Duty Trucks
+3,6,Hyundai,Truck
+3,7,Hyundai,Van
+3,Wheel Load,Hyundai,Wheel Loader
+INDMAR,Engines-Ma,Indmar,Engine - Marine
+68,5,Infiniti,Car
+68,6,Infiniti,Truck
+INGERSOLL,Compactors,Ingersoll Rand,Compactor
+INGERSOLL,Compressor,Ingersoll Rand,Compressor
+INGERSOLL,Generator ,Ingersoll Rand,Generator Set
+INGERSOLL,Rollers,Ingersoll Rand,Roller
+INGERSOLL,Sandblaste,Ingersoll Rand,Sandblaster
+71,Backhoes,International,Backhoe
+71,15,International,Baler
+71,16,International,Combine
+71,Cotton Pic,International,Cotton Picker
+71,Dozers,International,Dozer
+71,Harvesters,International,Harvester
+71,HD TRUCK,International,Heavy Duty
+71,Lift Truck,International,Lift Truck
+71,Loaders,International,Loader
+71,Medium & H,International,Medium & Heavy-Duty Trucks
+71,12,International,Medium Duty
+71,2187,International,Medium/Heavy Truck
+71,Paydozers,International,Paydozer
+71,Payhaulers,International,Payhauler
+71,Payloaders,International,Payloader
+71,Payloggers,International,Paylogger
+71,Paymovers,International,Paymover
+71,Payscraper,International,Payscraper
+71,Power Unit,International,Power Unit
+71,Skidders,International,Skidder
+71,Straddle C,International,Straddle Carrier
+71,Track Trac,International,Track Tractor
+71,Tractors,International,Tractor
+71,Tractors A,International,Tractor - Agricultural
+71,Tractors C,International,Tractor - Compact
+71,Tractors I,International,Tractor - Industrial
+71,Tractors L,International,Tractor - Lawn
+71,6,International,Truck
+71,7,International,Van
+71,18,International,Windrower
+ISEKI,Engines-In,Iseki,Engines - Industrial
+ISEKI,Tractors,Iseki,Tractor
+910,Excavators,Ishikawajima,Excavator
+910,Misc. Equi,Ishikawajima,Misc. Equipment
+473,Engines-Ma,Isotta Fraschini,Engine - Marine
+EU ISUZU,5,Isuzu - Europe,Car
+EU ISUZU,HD TRUCK,Isuzu - Europe,Heavy Duty
+EU ISUZU,Medium & H,Isuzu - Europe,Medium & Heavy-Duty Trucks
+37,5,Isuzu,Car
+37,Engines-Ma,Isuzu,Engine - Marine
+37,Engine,Isuzu,Engine Heavy Duty
+37,Engines-In,Isuzu,Engines - Industrial
+37,2187,Isuzu,Medium/Heavy Truck
+37,6,Isuzu,Truck
+37,7,Isuzu,Van
+EU IVECO,Buses,Iveco Fiat LCV / Heavy Duty - Europe,Bus
+EU IVECO,5,Iveco Fiat LCV / Heavy Duty - Europe,Car
+EU IVECO,HD TRUCK,Iveco Fiat LCV / Heavy Duty - Europe,Heavy Duty
+EU IVECO,12,Iveco Fiat LCV / Heavy Duty - Europe,Medium Duty
+EU IVECO,6,Iveco Fiat LCV / Heavy Duty - Europe,Truck
+EU IVECO,7,Iveco Fiat LCV / Heavy Duty - Europe,Van
+IVECO,HD TRUCK,Iveco,Heavy Duty
+IVECO,12,Iveco,Medium Duty
+J.C. BAMFO,Compactors,J.C. Bamford,Compactor
+J.C. BAMFO,Excavators,J.C. Bamford,Excavator
+J.C. BAMFO,Lift Truck,J.C. Bamford,Lift Truck
+J.C. BAMFO,Loaders,J.C. Bamford,Loader
+J.C. BAMFO,Loaders BH,J.C. Bamford,Loader - Backhoe
+J.C. BAMFO,Misc. Equi,J.C. Bamford,Misc. Equipment
+J.C. BAMFO,Rollers,J.C. Bamford,Roller
+J.C. BAMFO,Shovels,J.C. Bamford,Shovel
+J.C. BAMFO,Skid Steer,J.C. Bamford,Skid Steer
+J.C. BAMFO,SkidSteerL,J.C. Bamford,Skid Steer Loader
+J.C. BAMFO,Telescopic,J.C. Bamford,Telescopic Handler
+722,Loaders,JCB,Loader
+722,Loaders BH,JCB,Loader - Backhoe
+JGM,Engines-Ma,JGM,Engine - Marine
+JLG,Misc. Equi,JLG,Misc. Equipment
+JLG,Telehandle,JLG,Telehandler
+JS BARNES,Hydraulic ,JS Barnes,Hydraulic Motor
+JSW,Excavators,JSW,Excavator
+JACKEL,44,Jackel,ATV
+630,Tractors L,Jacobsen,Tractor - Lawn
+JACUZZI JE,Stern Driv,Jacuzzi Jet,Stern Drive
+EU JAGUAR,5,Jaguar - Europe,Car
+20,5,Jaguar,Car
+EU JEEP,6,Jeep - Europe,Truck
+42,6,Jeep,Truck
+EU JENSEN,5,Jensen - Europe,Car
+9,5,Jensen,Car
+JET EDGE,Compressor,Jet Edge,Compressor
+JETMOTO,44,Jetmoto,ATV
+912,Misc. Equi,John Bean,Misc. Equipment
+725,14,John Deere,Agricultural Tractor
+725,Articulate,John Deere,Articulated Dump Truck
+725,ArticulatT,John Deere,Articulated Truck
+725,44,John Deere,ATV
+725,Backhoes,John Deere,Backhoe
+725,15,John Deere,Baler
+725,Bundlers,John Deere,Bundler
+725,16,John Deere,Combine
+725,27,John Deere,Commercial Mower
+725,Compactors,John Deere,Compactor
+725,Cotton Pic,John Deere,Cotton Picker
+725,Crawlers,John Deere,Crawlers
+725,Engines-Ma,John Deere,Engine - Marine
+725,Engines,John Deere,Engine Medium Duty
+725,Engines-In,John Deere,Engines - Industrial
+725,Excavators,John Deere,Excavator
+725,Feller Bun,John Deere,Feller Buncher
+725,Forester,John Deere,Forester
+725,Forestry S,John Deere,Forestry Swing Machine
+725,Forwarder,John Deere,Forwarder
+725,Graders,John Deere,Grader
+725,Handlers,John Deere,Handler
+725,Harvesters,John Deere,Harvester
+725,28,John Deere,Lawn & Garden Tractor
+725,Lift Truck,John Deere,Lift Truck
+725,Loaders,John Deere,Loader
+725,Loggers,John Deere,Logger
+725,MowersFair,John Deere,Mower - Fairway
+725,Mowers - F,John Deere,Mower - Front
+725,Mowers - G,John Deere,Mower - Greens
+725,Mowers - P,John Deere,Mower - Professional
+725,Mowers - R,John Deere,Mower - Riding
+725,MowersTrim,John Deere,Mower - Trim
+725,Mowers - W,John Deere,Mower - Walk Behind
+725,MowersWide,John Deere,Mower - Wide Area
+725,MowersZTRK,John Deere,Mower - Z-Trak
+725,19,John Deere,Other Agricultural Equipment
+725,Power Unit,John Deere,Power Unit
+725,Pumps,John Deere,Pump
+725,31,John Deere,Rear Engine Rider Mower
+725,Scrapers,John Deere,Scraper
+725,SkidSteerL,John Deere,Skid Steer Loader
+725,Skidders,John Deere,Skidder
+725,17,John Deere,Sprayer
+725,34,John Deere,Tiller
+725,Tool Carri,John Deere,Tool Carrier
+725,TrackLoad,John Deere,Track Loader
+725,Tractors,John Deere,Tractor
+725,Tractors F,John Deere,Tractor - Farm
+725,Tractors I,John Deere,Tractor - Industrial
+725,Tractors L,John Deere,Tractor - Lawn
+725,TractorsSP,John Deere,Tractor - Specialty
+725,TractorsUT,John Deere,Tractor - Utility
+725,Tractor Lo,John Deere,Tractor Loader
+725,50,John Deere,Utility Vehicle
+725,18,John Deere,Windrower
+913,Engines-Ma,Johnson,Engine - Marine
+913,Tilt & Tri,Johnson,Tilt & Trim
+JOY,Compressor,Joy,Compressor
+JUNGHEIN,Lift Truck,Jungheinrich,Lift Truck
+KHD,Engines-In,KHD,Engines - Industrial
+KHD,Small Engi,KHD,Small Engine
+KHD,Tractors,KHD,Tractor
+KHD,Various Eq,KHD,Various Equipment
+1193,46,KTM,Offroad Motorcycle
+KALMAR AC,Lift Truck,Kalmar AC,Lift Truck
+EU KAMAZ,HD TRUCK,Kamaz - Europe,Heavy Duty
+KATOH,Loaders,Katoh,Loader
+729,44,Kawasaki,ATV
+729,40,Kawasaki,Motorcycle
+729,46,Kawasaki,Offroad Motorcycle
+729,47,Kawasaki,Personal Watercraft
+729,Small Engi,Kawasaki,Small Engine
+729,49,Kawasaki,Street Motorcycle
+729,50,Kawasaki,Utility Vehicle
+KAZUMA,44,Kazuma,ATV
+KAZUMA,40,Kazuma,Motorcycle
+KENO,Misc. Equi,Keno,Misc. Equipment
+559,HD TRUCK,Kenworth,Heavy Duty
+559,12,Kenworth,Medium Duty
+559,2187,Kenworth,Medium/Heavy Truck
+EU KIA,5,Kia - Europe,Car
+EU KIA,6,Kia - Europe,Truck
+EU KIA,7,Kia - Europe,Van
+21,5,Kia,Car
+21,6,Kia,Truck
+21,7,Kia,Van
+KOBELCO,Excavators,Kobelco,Excavator
+KOBELCO,Loaders,Kobelco,Loader
+KOBELCO,Loaders BH,Kobelco,Loader - Backhoe
+KOHLER,Engines,Kohler,Engine Medium Duty
+KOMATSU,22,Komatsu,Class 8 Dump
+KOMATSU,Compressor,Komatsu,Compressor
+KOMATSU,Crawler Tr,Komatsu,Crawler Tractor
+KOMATSU,Crawlers,Komatsu,Crawlers
+KOMATSU,Dozers,Komatsu,Dozer
+KOMATSU,Excavators,Komatsu,Excavator
+KOMATSU,Generators,Komatsu,Generator
+KOMATSU,Lift Truck,Komatsu,Lift Truck
+KOMATSU,Loaders,Komatsu,Loader
+KOMATSU,Motor Grad,Komatsu,Motor Grader
+KOMATSU,Payloaders,Komatsu,Payloader
+KOMATSU,Rollers,Komatsu,Roller
+KOMATSU,Wheel Load,Komatsu,Wheel Loader
+733,27,Kubota,Commercial Mower
+733,Engines-In,Kubota,Engines - Industrial
+733,Excavators,Kubota,Excavator
+733,Generators,Kubota,Generator
+733,Haulers,Kubota,Hauler
+733,28,Kubota,Lawn & Garden Tractor
+733,Loaders,Kubota,Loader
+733,Misc. Equi,Kubota,Misc. Equipment
+733,Mowers - F,Kubota,Mower - Front
+733,Mowers - T,Kubota,Mower - Turf
+733,Mowers - Z,Kubota,Mower - Zero Turn
+733,Tractors C,Kubota,Tractor - Compact
+733,Tractors G,Kubota,Tractor - Garden
+733,Tractors L,Kubota,Tractor - Lawn
+733,TractorsSC,Kubota,Tractor - Sub Compact
+733,TractorsUT,Kubota,Tractor - Utility
+733,50,Kubota,Utility Vehicle
+1194,44,Kymco,ATV
+EU LTI,5,LTi (Carbodies) - Europe,Car
+EU LADA,5,Lada - Europe,Car
+EU LADALCV,7,Lada LCV - Europe,Van
+90,5,Lada,Car
+90,6,Lada,Truck
+38,5,Lamborghini,Car
+LAMB-AG,14,Lamborghini-Agricultural,Agricultural Tractor
+LAMB-AG,Crawler Do,Lamborghini-Agricultural,Crawler Dozer
+LAMB-AG,Crawler Tr,Lamborghini-Agricultural,Crawler Tractor
+LANCER,Loaders,Lancer,Loader
+EU LANCIA,5,Lancia - Europe,Car
+8,5,Lancia,Car
+EU LAND RO,6,Land Rover - Europe,Truck
+11,6,Land Rover,Truck
+918,14,Landini,Agricultural Tractor
+918,Tractors A,Landini,Tractor - Agricultural
+LATHROP,Engines-Ma,Lathrop,Engine - Marine
+LAY-MOR,Graders,Lay-Mor,Grader
+LE TOURNEA,Graders,Le Tourneau-Westinghouse,Grader
+LE TOURNEA,Misc. Equi,Le Tourneau-Westinghouse,Misc. Equipment
+LE TOURNEA,Off-Road &,Le Tourneau-Westinghouse,Off-Road & Mining Truck
+LEE BOY,Misc. Equi,Lee Boy,Misc. Equipment
+LEHMAN,Engines-Ma,Lehman,Engine - Marine
+EU LEXUS,5,Lexus - Europe,Car
+EU LEXUS,6,Lexus - Europe,Truck
+75,5,Lexus,Car
+75,6,Lexus,Truck
+EU LEY DAF,HD TRUCK,Leyland DAF - Europe,Heavy Duty
+EU LEYLAND,6,Leyland DAF Vans - Europe,Truck
+EU LEYLAND,7,Leyland DAF Vans - Europe,Van
+LEYLAND DA,Small Engi,Leyland DAF,Small Engine
+LEYLAND NU,Tractors,Leyland Nuffield,Tractor
+LEYLAND TH,Engines-Ma,Leyland Thornycroft,Engine - Marine
+LIEBHERR,Bulldozers,Liebherr,Bulldozer
+LIEBHERR,Engines-In,Liebherr,Engines - Industrial
+LIEBHERR,Excavators,Liebherr,Excavator
+LIFTMORE,Hydraulic ,Liftmore,Hydraulic Motor
+LINAMAR,Engines-In,Linamar,Engines - Industrial
+LINCOLN WE,Welders,Lincoln Welder,Welder
+55,5,Lincoln,Car
+55,6,Lincoln,Truck
+LINDE,Lift Truck,Linde,Lift Truck
+LINK-BELT,Excavators,Link-Belt,Excavator
+LISTER-BLA,Engines-Ma,Lister-Blackstone,Engine - Marine
+LISTER-PET,Engine,Lister-Petter,Engine Heavy Duty
+LISTER-PET,HD TRUCK,Lister-Petter,Heavy Duty
+LISTER-PET,Tractors,Lister-Petter,Tractor
+LOMBARDINI,Engines-Ma,Lombardini,Engine - Marine
+LONG TRACT,Tractors,Long Tractor,Tractor
+EU LOTUS,5,Lotus - Europe,Car
+84,5,Lotus,Car
+LUCAS,Engines-Ma,Lucas,Engine - Marine
+LYNX,48,Lynx,Snowmobile
+EU MAN,Buses,MAN - Europe,Bus
+EU MAN,HD TRUCK,MAN - Europe,Heavy Duty
+MCI,Buses,MCI,Bus
+64,5,MG,Car
+MHT,Harvesters,MHT,Harvester
+MQ,Generators,MQ,Generator
+MQ,Misc. Equi,MQ,Misc. Equipment
+MQ,Welders,MQ,Welder
+MTE HYDRAU,HydraulicL,MTE Hydraulics,Hydraulic Lift Gate Motor
+MWM DIESEL,Engines,MWM Diesel,Engine Medium Duty
+921,18,Macdon,Windrower
+496,HD TRUCK,Mack,Heavy Duty
+MAGIRUS,HD TRUCK,Magirus-Deutz,Heavy Duty
+MANDO,Engines-Ma,Mando,Engine - Marine
+MANTIOU,Lift Truck,Mantiou,Lift Truck
+MANTIOU,Telescopic,Mantiou,Telescopic Handler
+MARINE POW,Engines-Ma,Marine Power,Engine - Marine
+MARINER,Engines-Ma,Mariner,Engine - Marine
+MARINER,Tilt & Tri,Mariner,Tilt & Trim
+748,14,Massey Ferguson,Agricultural Tractor
+748,15,Massey Ferguson,Baler
+748,16,Massey Ferguson,Combine
+748,Crawlers,Massey Ferguson,Crawlers
+748,Excavators,Massey Ferguson,Excavator
+748,Lift Truck,Massey Ferguson,Lift Truck
+748,Loaders,Massey Ferguson,Loader
+748,Skidders,Massey Ferguson,Skidder
+748,Tractors A,Massey Ferguson,Tractor - Agricultural
+748,Tractors F,Massey Ferguson,Tractor - Farm
+748,Tractors I,Massey Ferguson,Tractor - Industrial
+748,18,Massey Ferguson,Windrower
+MAXAM,44,Maxam,ATV
+62,5,Maybach,Car
+EU MAZDA,5,Mazda - Europe,Car
+EU MAZDA,6,Mazda - Europe,Truck
+EU MAZDA,7,Mazda - Europe,Van
+80,5,Mazda,Car
+80,6,Mazda,Truck
+80,7,Mazda,Van
+MC CLOSKEY,Misc. Equi,McCloskey Brothers,Misc. Equipment
+927,14,McCormick,Agricultural Tractor
+750,Outboard M,McCulloch,Outboard Motor
+MEDALIST,Engines-Ma,Medalist,Engine - Marine
+MELROE SPR,17,Melroe Spra Coupe,Sprayer
+EU MERCED,5,Mercedes - Europe,Car
+EU MERCED,6,Mercedes - Europe,Truck
+EU MERCED,7,Mercedes - Europe,Van
+EU MERCED,Wheel Trac,Mercedes - Europe,Wheel Tractor
+EU MERC HD,Buses,Mercedes Heavy Duty - Europe,Bus
+EU MERC HD,HD TRUCK,Mercedes Heavy Duty - Europe,Heavy Duty
+EU BENZ CV,6,Mercedes LCV - Europe,Truck
+EU BENZ CV,7,Mercedes LCV - Europe,Van
+63,5,Mercedes-Benz,Car
+63,HD TRUCK,Mercedes-Benz,Heavy Duty
+63,12,Mercedes-Benz,Medium Duty
+63,6,Mercedes-Benz,Truck
+63,7,Mercedes-Benz,Van
+MERCRUISER,Engines-Ma,Mercruiser,Engine - Marine
+MERCRUISER,Ski Engine,Mercruiser,Ski Engine
+MERCRUISER,Stern Driv,Mercruiser,Stern Drive
+56,5,Mercury,Car
+56,Engines-Ma,Mercury,Engine - Marine
+56,Tilt & Tri,Mercury,Tilt & Trim
+56,6,Mercury,Truck
+56,7,Mercury,Van
+57,5,Merkur,Car
+MEYER,Plow Motor,Meyer,Plow Motor
+MICHIGAN,Loaders,Michigan,Loader
+MILLER APP,17,Miller Applications Technology,Sprayer
+MILLER ELE,Welders,Miller Electric,Welder
+EU MINI,5,Mini - Europe,Car
+32,5,Mini,Car
+MINNEAPOLI,15,Minneapolis Moline,Baler
+MINNEAPOLI,16,Minneapolis Moline,Combine
+MINNEAPOLI,Lift Truck,Minneapolis Moline,Lift Truck
+MINNEAPOLI,Power Unit,Minneapolis Moline,Power Unit
+MINNEAPOLI,Tractors,Minneapolis Moline,Tractor
+MINNEAPOLI,18,Minneapolis Moline,Windrower
+EU MITSUB,5,Mitsubishi - Europe,Car
+EU MITSUB,6,Mitsubishi - Europe,Truck
+EU MITSUB,7,Mitsubishi - Europe,Van
+500,HD TRUCK,Mitsubishi Fuso,Heavy Duty
+500,12,Mitsubishi Fuso,Medium Duty
+500,2187,Mitsubishi Fuso,Medium/Heavy Truck
+EU MIT LCV,7,Mitsubishi LCV - Europe,Van
+72,5,Mitsubishi,Car
+72,Engines-Ma,Mitsubishi,Engine - Marine
+72,Engines,Mitsubishi,Engine Medium Duty
+72,Engines-In,Mitsubishi,Engines - Industrial
+72,Generators,Mitsubishi,Generator
+72,Lift Truck,Mitsubishi,Lift Truck
+72,6,Mitsubishi,Truck
+72,7,Mitsubishi,Van
+MITSUI-DEU,Engines-In,Mitsui-Deutz,Engines - Industrial
+MOFFET,Lift Truck,Moffet,Lift Truck
+MONARCH,HydraulicL,Monarch,Hydraulic Lift Gate Motor
+EU MORGAN,5,Morgan - Europe,Car
+1196,40,Moto Guzzi,Motorcycle
+MOTOROLA,Engines-Ma,Motorola,Engine - Marine
+MOUNTAINEE,Misc. Equi,Mountaineer,Misc. Equipment
+MURPHY DIE,Engines,Murphy Diesel,Engine Medium Duty
+928,SkidSteerL,Mustang,Skid Steer Loader
+NANNI,Engines-Ma,Nanni,Engine - Marine
+932,14,New Holland,Agricultural Tractor
+932,Backhoes,New Holland,Backhoe
+932,15,New Holland,Baler
+932,16,New Holland,Combine
+932,Dozers,New Holland,Dozer
+932,Excavators,New Holland,Excavator
+932,Harvesters,New Holland,Harvester
+932,Loaders,New Holland,Loader
+932,Motor Grad,New Holland,Motor Grader
+932,Mowers,New Holland,Mower
+932,Mowers - F,New Holland,Mower - Front
+932,Mowers - Z,New Holland,Mower - Zero Turn
+932,19,New Holland,Other Agricultural Equipment
+932,SkidSteerL,New Holland,Skid Steer Loader
+932,17,New Holland,Sprayer
+932,Telehandle,New Holland,Telehandler
+932,Tractors,New Holland,Tractor
+932,Tractors C,New Holland,Tractor - Compact
+932,Tractors F,New Holland,Tractor - Farm
+932,Tractors G,New Holland,Tractor - Garden
+932,Tractors L,New Holland,Tractor - Lawn
+932,TractorsUT,New Holland,Tractor - Utility
+932,Tractor Lo,New Holland,Tractor Loader
+932,Wheel Load,New Holland,Wheel Loader
+932,18,New Holland,Windrower
+933,Power Unit,New Idea,Power Unit
+NIEHOFF,Engines-Ma,Niehoff,Engine - Marine
+EU NISSAN,5,Nissan - Europe,Car
+EU NISSAN,Lift Truck,Nissan - Europe,Lift Truck
+EU NISSAN,6,Nissan - Europe,Truck
+EU NISSAN,7,Nissan - Europe,Van
+EU NIS LCV,6,Nissan LCV - Europe,Truck
+EU NIS LCV,7,Nissan LCV - Europe,Van
+67,5,Nissan,Car
+67,Engines-Ma,Nissan,Engine - Marine
+67,Engine,Nissan,Engine Heavy Duty
+67,Engines,Nissan,Engine Medium Duty
+67,Engines-In,Nissan,Engines - Industrial
+67,Lift Truck,Nissan,Lift Truck
+67,6,Nissan,Truck
+67,7,Nissan,Van
+NORTHERN L,Generators,Northern Lights,Generator
+NORTHMAN,Plow Motor,Northman,Plow Motor
+NOVA BUS,Buses,Nova Bus,Bus
+OMC,Engines-Ma,OMC,Engine - Marine
+OMC,Tilt & Tri,OMC,Tilt & Trim
+51,5,Oldsmobile,Car
+51,6,Oldsmobile,Truck
+51,7,Oldsmobile,Van
+OLIVER,15,Oliver,Baler
+OLIVER,16,Oliver,Combine
+OLIVER,Lift Truck,Oliver,Lift Truck
+OLIVER,Loaders,Oliver,Loader
+OLIVER,Power Unit,Oliver,Power Unit
+OLIVER,17,Oliver,Sprayer
+OLIVER,Tractors,Oliver,Tractor
+OLIVER,18,Oliver,Windrower
+ONAN,Engines,Onan,Engine Medium Duty
+ONAN,Engines-In,Onan,Engines - Industrial
+ONAN,Misc. Equi,Onan,Misc. Equipment
+EU OPEL,5,Opel - Europe,Car
+EU OPEL CV,6,Opel LCV - Europe,Truck
+EU OPEL CV,7,Opel LCV - Europe,Van
+22,5,Opel,Car
+1090,Off-Road &,Oshkosh,Off-Road & Mining Truck
+OWENS YACH,BOAT,Owens Yacht,Boat
+PSI,Maintainer,PSI,Maintainer
+PALMER,Engines-Ma,Palmer,Engine - Marine
+1218,BOAT,Panther,Boat
+PAVEMASTER,Rollers,Pavemaster,Roller
+PENN YAN,BOAT,Penn Yan,Boat
+PERKINS,Engines-Ma,Perkins,Engine - Marine
+PERKINS,Engines-In,Perkins,Engines - Industrial
+PERKINS,Generators,Perkins,Generator
+560,HD TRUCK,Peterbilt,Heavy Duty
+560,12,Peterbilt,Medium Duty
+560,2187,Peterbilt,Medium/Heavy Truck
+EU PEUGEOT,5,Peugeot - Europe,Car
+EU PEUGEOT,7,Peugeot - Europe,Van
+EU PEU LCV,5,Peugeot LCV - Europe,Car
+EU PEU LCV,6,Peugeot LCV - Europe,Truck
+EU PEU LCV,7,Peugeot LCV - Europe,Van
+28,5,Peugeot,Car
+PLEASURECR,Engines-Ma,Pleasurecraft,Engine - Marine
+43,5,Plymouth,Car
+43,6,Plymouth,Truck
+43,7,Plymouth,Van
+POCLAIN,Cranes,Poclain,Crane
+POCLAIN,Excavators,Poclain,Excavator
+1200,44,Polaris,ATV
+1200,47,Polaris,Personal Watercraft
+1200,48,Polaris,Snowmobile
+1200,50,Polaris,Utility Vehicle
+52,5,Pontiac,Car
+52,6,Pontiac,Truck
+52,7,Pontiac,Van
+EU PORSCHE,5,Porsche - Europe,Car
+2,5,Porsche,Car
+2,6,Porsche,Truck
+POYAUD,Engines-Ma,Poyaud,Engine - Marine
+PRAIRIE,17,Prairie,Sprayer
+PRAIRIE,18,Prairie,Windrower
+PREMIER,18,Premier,Windrower
+PRENTICE,Loaders,Prentice,Loader
+PREVOST,Buses,Prevost,Bus
+PREVOST,Medium & H,Prevost,Medium & Heavy-Duty Trucks
+PRINCETON,Lift Truck,Princeton Delivery Systems,Lift Truck
+PRINOTH,Misc. Equi,Prinoth,Misc. Equipment
+PROCHEM,Truck Unit,Prochem,Truck Unit
+EU PROTON,5,Proton - Europe,Car
+PUMPTRON,Engines-Ma,Pumptron,Engine - Marine
+1168,6,Ram,Truck
+1168,7,Ram,Van
+RAMMAX,Misc. Equi,Rammax,Misc. Equipment
+RAMROD,SkidSteerL,Ramrod,Skid Steer Loader
+RAMSEY,Winch Moto,Ramsey,Winch Motor
+RAPTOR,17,Raptor,Sprayer
+RED D ARC,Welders,Red D Arc,Welder
+1231,44,Redcat Motors,ATV
+EU RELIANT,5,Reliant - Europe,Car
+EU RELI CV,6,Reliant LCV - Europe,Truck
+REM,Misc. Equi,Rem,Misc. Equipment
+EU RENAULT,5,Renault - Europe,Car
+EU RENAULT,12,Renault - Europe,Medium Duty
+EU RENAULT,6,Renault - Europe,Truck
+RENAULT CO,Engines-Ma,Renault Couach,Engine - Marine
+EU REN HD,Buses,Renault Heavy Duty - Europe,Bus
+EU REN HD,HD TRUCK,Renault Heavy Duty - Europe,Heavy Duty
+EU REN LCV,5,Renault LCV - Europe,Car
+EU REN LCV,7,Renault LCV - Europe,Van
+23,5,Renault,Car
+23,20,Renault,Class 8 Truck
+23,Engines-Ma,Renault,Engine - Marine
+23,HD TRUCK,Renault,Heavy Duty
+23,Medium & H,Renault,Medium & Heavy-Duty Trucks
+23,12,Renault,Medium Duty
+23,Tractors A,Renault,Tractor - Agricultural
+REX,Engines-Ma,Rex,Engine - Marine
+RIGMAST,Misc. Equi,Rigmaster Power Inc.,Misc. Equipment
+RIGMAST,Power Unit,Rigmaster Power Inc.,Power Unit
+ROGATOR,17,Rogator,Sprayer
+70,5,Rolls Royce,Car
+ROPER,Tractors L,Roper,Tractor - Lawn
+ROTAX MARI,Engines-Ma,Rotax Marine - BRP,Engine - Marine
+ROTTNE,Forwarder,Rottne Logging Equipment,Forwarder
+ROTTNE,Harvesters,Rottne Logging Equipment,Harvester
+EU ROV AM,5,Rover Group (Austin/Morris) - Europe,Car
+EU ROV RI,6,Rover Group (Riley) - Europe,Truck
+EU ROV TR,5,Rover Group (Triumph) - Europe,Car
+EU ROV WO,5,Rover Group (Wolseley) - Europe,Car
+EU ROVER,5,Rover Group - Europe,Car
+EU ROV CV,5,Rover Group LCV - Europe,Car
+EU ROV CV,6,Rover Group LCV - Europe,Truck
+EU ROV CV,7,Rover Group LCV - Europe,Van
+RUGGERINI,Engines-Ma,Ruggerini,Engine - Marine
+RUGGERINI,Engines-In,Ruggerini,Engines - Industrial
+1230,5,SRT,Car
+EU SAAB,5,Saab - Europe,Car
+65,5,Saab,Car
+65,6,Saab,Truck
+SABB,Engines-Ma,Sabb,Engine - Marine
+SABO,Tractors L,Sabo,Tractor - Lawn
+783,Engines-Ma,Sabre,Engine - Marine
+954,Crawlers,Same,Crawlers
+954,Engines,Same,Engine Medium Duty
+954,Engines-In,Same,Engines - Industrial
+954,Tractors,Same,Tractor
+SAMSUNG,Excavators,Samsung,Excavator
+SATOH,Tractors,Satoh,Tractor
+53,5,Saturn,Car
+53,6,Saturn,Truck
+53,7,Saturn,Van
+786,Mowers,Scag,Mower
+EU SCAN HD,Buses,Scania Heavy Duty - Europe,Bus
+EU SCAN HD,HD TRUCK,Scania Heavy Duty - Europe,Heavy Duty
+SCANIA,Engines-In,Scania,Engines - Industrial
+SCANIA,12,Scania,Medium Duty
+SCAT TRAK,SkidSteerL,Scat Trak,Skid Steer Loader
+SCHAEFF,Lift Truck,Schaeff-Namco,Lift Truck
+SCHAFFER,Loaders,Schaffer,Loader
+SCHLUTER,Medium & H,Schluter,Medium & Heavy-Duty Trucks
+SCHRAMM,Misc. Equi,Schramm,Misc. Equipment
+SCHWING,Misc. Equi,Schwing,Misc. Equipment
+91,5,Scion,Car
+91,7,Scion,Van
+SCOTT ATWA,Outboard M,Scott Atwater,Outboard Motor
+SCOTT'S,Tractors L,Scotts's,Tractor - Lawn
+788,28,Scotts,Lawn & Garden Tractor
+788,Tractors L,Scotts,Tractor - Lawn
+SEA BEE,Outboard M,Sea Bee,Outboard Motor
+SEA KING,Outboard M,Sea King,Outboard Motor
+1203,47,Sea-Doo,Personal Watercraft
+1203,Sportboats,Sea-Doo,Sportboat
+1203,Tilt & Tri,Sea-Doo,Tilt & Trim
+SEA-DRIVE,Tilt & Tri,Sea-Drive,Tilt & Trim
+EU SEAT,5,Seat - Europe,Car
+EU SEAT CV,7,Seat LCV - Europe,Van
+615,5,Seat,Car
+SEENERGIE,Engines-Ma,Seennergie,Engine - Marine
+SELLICK,Lift Truck,Sellick,Lift Truck
+SHIBAURA,Tractors,Shibaura,Tractor
+SHUTTLEWAG,Railcar Mover,Shuttlewagon,Railcar Mover
+438,5,Simca,Car
+790,Tractors L,Simplicity,Tractor - Lawn
+1204,48,Ski-Doo,Snowmobile
+EU SKODA,5,Skoda - Europe,Car
+EU SKODACV,6,Skoda LCV - Europe,Truck
+EU SKODACV,7,Skoda LCV - Europe,Van
+SKYJACK,Misc. Equi,Skyjack,Misc. Equipment
+SLANZI,Engines,Slanzi,Engine Medium Duty
+EU SMART,5,Smart (MMC) - Europe,Car
+484,5,Smart,Car
+SMITH,Misc. Equi,Smith,Misc. Equipment
+SNO-WAY,Plow Motor,Sno-Way,Plow Motor
+SNORKEL,Telescopic,Snorkel,Telescopic Handler
+SOLE DIESE,Small Engi,Sole Diesel,Small Engine
+793,36,Split-Fire,Other Lawn & Garden Equipment
+SPRA- COUP,17,Spra-Coupe,Sprayer
+SPRAY_MON,17,Spray Monster,Sprayer
+SPRAY-AIR,17,Spray-Air,Sprayer
+EU SSANGY,5,Ssangyong - Europe,Car
+600,HD TRUCK,Star,Heavy Duty
+STARRETT,Engines-Ma,Starrett,Engine - Marine
+960,Tractors,Steiger,Tractor
+794,Tractors,Steiner,Tractor
+60,5,Sterling,Car
+60,22,Sterling,Class 8 Dump
+60,20,Sterling,Class 8 Truck
+60,HD TRUCK,Sterling,Heavy Duty
+60,12,Sterling,Medium Duty
+60,2187,Sterling,Medium/Heavy Truck
+1098,Engines-Ma,Stewart & Stevenson,Engine - Marine
+STEYR,Engines-Ma,Steyr,Engine - Marine
+STEYR,Tractors A,Steyr,Tractor - Agricultural
+STONE_IND,Misc. Equi,Stone Industries,Misc. Equipment
+STONE,Rollers,Stone,Roller
+87,5,Studebaker,Car
+EU SUBARU,5,Subaru - Europe,Car
+EU SUBARU,6,Subaru - Europe,Truck
+EU SUBARU,7,Subaru - Europe,Van
+EU SUB LCV,5,Subaru LCV - Europe,Car
+EU SUB LCV,6,Subaru LCV - Europe,Truck
+SUBARU SMA,Small Engi,Subaru Small Engine,Small Engine
+13,5,Subaru,Car
+13,Compressor,Subaru,Compressor
+13,29,Subaru,Lawn Mower
+13,6,Subaru,Truck
+SULLAIR,Compressor,Sullair,Compressor
+SULLAIR,Generator ,Sullair,Generator Set
+SUMITOMO Y,Lift Truck,Sumitomo Yale,Lift Truck
+88,5,Sunbeam,Car
+EU SUZUKI,5,Suzuki - Europe,Car
+EU SUZUKI,6,Suzuki - Europe,Truck
+EU SUZUKI,7,Suzuki - Europe,Van
+1,44,Suzuki,ATV
+1,5,Suzuki,Car
+1,Engines-Ma,Suzuki,Engine - Marine
+1,40,Suzuki,Motorcycle
+1,46,Suzuki,Offroad Motorcycle
+1,2189,Suzuki,Scooter
+1,49,Suzuki,Street Motorcycle
+1,Tilt & Tri,Suzuki,Tilt & Trim
+1,6,Suzuki,Truck
+SWEEPMAS,Sweepers,Sweepmaster,Sweeper
+TCM EQUIPM,Lift Truck,TCM Equipment,Lift Truck
+TCM EQUIPM,Misc. Equi,TCM Equipment,Misc. Equipment
+EU TVR,5,TVR - Europe,Car
+TADANO,Cranes,Tadano,Crane
+TAKEUCHI,Excavators,Takeuchi,Excavator
+TAKEUCHI,Loaders,Takeuchi,Loader
+EU TALBOT,5,Talbot - Europe,Car
+EU TAL LCV,5,Talbot Group LCV - Europe,Car
+EU TAL LCV,7,Talbot Group LCV - Europe,Van
+TANGUAY,Loaders,Tanguay,Loader
+TECUMSEH,Engines-In,Tecumseh,Engines - Industrial
+TELEDYNE-C,Engines,Teledyne - Continental,Engine Medium Duty
+TELEDYNE-C,Engines-In,Teledyne - Continental,Engines - Industrial
+TELEDYNE-W,Engines,Teledyne - Wisconsin,Engine Medium Duty
+TELEDYNE-W,Engines-In,Teledyne - Wisconsin,Engines - Industrial
+TELEDYNE,Engines-Ma,Teledyne,Engine - Marine
+TENNANT,Sweepers,Tennant,Sweeper
+TEREX,Crawlers,Terex,Crawlers
+TEREX,Haulers,Terex,Hauler
+TEREX,Lift Truck,Terex,Lift Truck
+TEREX,Loaders,Terex,Loader
+TEREX,Scrapers,Terex,Scraper
+TEREX,Tractors,Terex,Tractor
+TEREX,Wheel Load,Terex,Wheel Loader
+TERRAMITE,Tractors,Terramite,Tractor
+THERMO ELE,Engines-Ma,Thermo Electron,Engine - Marine
+THERMO KIN,Generators,Thermo King,Generator
+THERMO KIN,Misc. Equi,Thermo King,Misc. Equipment
+THERMO KIN,Trailer Un,Thermo King,Trailer Unit
+THERMO KIN,Truck Unit,Thermo King,Truck Unit
+THOMAS BUI,Buses,Thomas Built Bus,Bus
+THOMAS EQU,Skid Steer,Thomas Equipment,Skid Steer
+TIGERCAT,Feller Bun,Tigercat,Feller Buncher
+TIGERCAT,Harvesters,Tigercat,Harvester
+TIMBERJACK,Feller Bun,Timberjack,Feller Buncher
+TIMBERJACK,Forwarder,Timberjack,Forwarder
+TIMBERJACK,Misc. Equi,Timberjack,Misc. Equipment
+TIMBERJACK,Skidders,Timberjack,Skidder
+TIMBERKING,Feller Bun,Timberking,Feller Buncher
+TIMRICK,Misc. Equi,Timrick,Misc. Equipment
+TOHATSU,Engines-Ma,Tohatsu,Engine - Marine
+TOHATSU,Tilt & Tri,Tohatsu,Tilt & Trim
+638,Aerator,Toro,Aerator
+638,Loaders,Toro,Loader
+638,Misc. Equi,Toro,Misc. Equipment
+638,MowersFair,Toro,Mower - Fairway
+638,Mowers - G,Toro,Mower - Greens
+638,Mowers - W,Toro,Mower - Walk Behind
+638,Mowers - Z,Toro,Mower - Zero Turn
+638,Sports Fie,Toro,Sports Field Equipment
+638,17,Toro,Sprayer
+638,Tractors G,Toro,Tractor - Garden
+638,Tractors L,Toro,Tractor - Lawn
+638,50,Toro,Utility Vehicle
+TOWMOTOR,Lift Truck,Towmotor,Lift Truck
+EU TOYOTA,5,Toyota - Europe,Car
+EU TOYOTA,6,Toyota - Europe,Truck
+EU TOY LCV,Buses,Toyota LCV - Europe,Bus
+EU TOY LCV,6,Toyota LCV - Europe,Truck
+76,5,Toyota,Car
+76,Lift Truck,Toyota,Lift Truck
+76,Off-Road &,Toyota,Off-Road & Mining Truck
+76,6,Toyota,Truck
+76,7,Toyota,Van
+805,28,Trackless,Lawn & Garden Tractor
+TRACKMOB,Railcar Mover,Trackmobile,Railcar Mover
+14,5,Triumph,Car
+14,49,Triumph,Street Motorcycle
+TROPICAL,Generators,Tropical Diesel Generators,Generator
+U.S.,Engines-Ma,U.S.,Engine - Marine
+U.S.,Tilt & Tri,U.S.,Tilt & Trim
+498,HD TRUCK,UD,Heavy Duty
+498,12,UD,Medium Duty
+498,2187,UD,Medium/Heavy Truck
+UNIVERSAL,Engines-Ma,Universal,Engine - Marine
+VM (STABIL,Engines,VM (Stabilimenti Meccanici),Engine Medium Duty
+VM (STABIL,Engines-In,VM (Stabilimenti Meccanici),Engines - Industrial
+EU VALD HD,HD TRUCK,Valday Heavy Duty - Europe,Heavy Duty
+VALEO,Engines-Ma,Valeo,Engine - Marine
+VALTRA,Engines-In,Valtra Valmet,Engines - Industrial
+VALTRA,Feller Bun,Valtra Valmet,Feller Buncher
+VALTRA,Misc. Equi,Valtra Valmet,Misc. Equipment
+VALTRA,Tractors,Valtra Valmet,Tractor
+EU VAUXH,5,Vauxhall - Europe,Car
+1156,Misc. Equi,Vermeer,Misc. Equipment
+1156,Trenchers,Vermeer,Trencher
+969,16,Versatile,Combine
+969,Swathers,Versatile,Swather
+969,Tractors,Versatile,Tractor
+969,18,Versatile,Windrower
+VETUS,Engines-Ma,Vetus,Engine - Marine
+1207,40,Victory,Motorcycle
+1207,49,Victory,Street Motorcycle
+EU VW,5,Volkswagen - Europe,Car
+EU VW LCV,6,Volkswagen LCV - Europe,Truck
+EU VW LCV,7,Volkswagen LCV - Europe,Van
+74,5,Volkswagen,Car
+74,6,Volkswagen,Truck
+74,7,Volkswagen,Van
+EU VOLVO,5,Volvo - Europe,Car
+EU VOLVOHD,HD TRUCK,Volvo Heavy Duty - Europe,Heavy Duty
+VOLVO PENT,Engines-Ma,Volvo Penta,Engine - Marine
+VOLVO PENT,Tilt & Tri,Volvo Penta,Tilt & Trim
+27,ArticulatT,Volvo,Articulated Truck
+27,Buses,Volvo,Bus
+27,5,Volvo,Car
+27,20,Volvo,Class 8 Truck
+27,Engines,Volvo,Engine Medium Duty
+27,Excavators,Volvo,Excavator
+27,Haulers,Volvo,Hauler
+27,HD TRUCK,Volvo,Heavy Duty
+27,Loaders,Volvo,Loader
+27,Medium & H,Volvo,Medium & Heavy-Duty Trucks
+27,12,Volvo,Medium Duty
+27,Motor Grad,Volvo,Motor Grader
+27,6,Volvo,Truck
+WABCO,Graders,Wabco,Grader
+WABCO,Haulpack T,Wabco,Haulpack Truck
+WABCO,Scrapers,Wabco,Scraper
+WACKER,Rollers,Wacker,Roller
+640,Misc. Equi,Walker,Misc. Equipment
+640,Mowers - R,Walker,Mower - Riding
+WARN_IND,Winch Moto,Warn Industries,Winch Motor
+WAUKESHA,Engines-Ma,Waukesha,Engine - Marine
+WAUKESHA,Engine,Waukesha,Engine Heavy Duty
+WAUKESHA,Engines,Waukesha,Engine Medium Duty
+WAUKESHA,Small Engi,Waukesha,Small Engine
+WEST BEND,Engines-Ma,West Bend,Engine - Marine
+WESTERBEKE,Engines-Ma,Westerbeke,Engine - Marine
+WESTERBEKE,Generators,Westerbeke,Generator
+WESTERBEKE,Generator ,Westerbeke,Generator Set
+WESTERN PR,Plow Motor,Western Products,Plow Motor
+1102,HD TRUCK,Western Star,Heavy Duty
+WESTWARD,18,Westward,Windrower
+WHITE (COC,15,White (Cockshutt),Baler
+WHITE (COC,16,White (Cockshutt),Combine
+WHITE (COC,Tractors,White (Cockshutt),Tractor
+WHITE (COC,18,White (Cockshutt),Windrower
+WHITE (MPL,15,White (Mpls Moline),Baler
+WHITE (MPL,16,White (Mpls Moline),Combine
+WHITE (MPL,Tractors,White (Mpls Moline),Tractor
+WHITE (MPL,18,White (Mpls Moline),Windrower
+WHITE (OLI,15,White (Oliver),Baler
+WHITE (OLI,16,White (Oliver),Combine
+WHITE (OLI,17,White (Oliver),Sprayer
+WHITE (OLI,Tractors,White (Oliver),Tractor
+WHITE (OLI,18,White (Oliver),Windrower
+WHITE (RIO,HD TRUCK,White (Rio Division),Heavy Duty
+WHITE (RIO,Lift Truck,White (Rio Division),Lift Truck
+974,16,White,Combine
+974,Lift Truck,White,Lift Truck
+974,Medium & H,White,Medium & Heavy-Duty Trucks
+974,Power Unit,White,Power Unit
+974,Tractors,White,Tractor
+WHITING,Misc. Equi,Whiting Corporation,Misc. Equipment
+WILLMAR,17,Willmar,Sprayer
+WISCON_HYD,Hydraulic ,Wisconsin Hydraulics,Hydraulic Motor
+WISCONSINR,Engines-In,Wisconsin Robbins,Engines - Industrial
+WISCONSIN,Engines-Ma,Wisconsin,Engine - Marine
+YALE,Lift Truck,Yale,Lift Truck
+1210,44,Yamaha,ATV
+1210,Carts,Yamaha,Cart
+1210,40,Yamaha,Motorcycle
+1210,46,Yamaha,Offroad Motorcycle
+1210,Outboard M,Yamaha,Outboard Motor
+1210,Outdoor Po,Yamaha,Outdoor Power Equipment
+1210,47,Yamaha,Personal Watercraft
+1210,2189,Yamaha,Scooter
+1210,48,Yamaha,Snowmobile
+1210,Sportboats,Yamaha,Sportboat
+1210,49,Yamaha,Street Motorcycle
+1210,Tilt & Tri,Yamaha,Tilt & Trim
+1210,50,Yamaha,Utility Vehicle
+YANMAR,Engines-Ma,Yanmar,Engine - Marine
+YANMAR,Engines-In,Yanmar,Engines - Industrial
+YANMAR,Tractors,Yanmar,Tractor
+EU YUGO,5,Yugo - Europe,Car
+EU YUGO LC,7,Yugo LCV - Europe,Van
+15,5,Yugo,Car
+ZETOR,Tractors,Zetor,Tractor

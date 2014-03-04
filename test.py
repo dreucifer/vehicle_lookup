@@ -1,4 +1,4 @@
 #!/usr/bin/env python
-from vehicle_lookup.models import *
+from vehicle_lookup.helpers import *
 
-generate_vehicles()
+import_models()

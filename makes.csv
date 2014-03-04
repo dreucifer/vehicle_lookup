@@ -1,0 +1,588 @@
+Name,ID
+ABG (Allg Baumasch Gesellsch),ABG
+Acadia,ACADIA
+Acura,58
+Adams Division,ADAMS
+Aero,AERO
+Aeroceanic,AEROCEANIC
+Afron,AFRON
+Ag-Chem,835
+Agco,836
+Agco Allis,643
+Agco Gleaner,AGCO GLEAN
+Agco Spra Coupe,AGCO SPRA
+Agco Star,AGCO STAR
+Agco White,AGCO WHITE
+Aifo,AIFO
+Albin,ALBIN
+Alfa Romeo,16
+Alfa Romeo - Europe,EU ALFA
+Alien Motors,ALIEN MOTO
+Allis Chalmers,ALLIS CHAL
+Allmand,ALLMAND
+AM General,44
+American Motors,66
+Amida,AMIDA
+Apache,APACHE
+Applied Energy,APPLIED EN
+Aprilia,1170
+Arctic Cat,1171
+Asuna,89
+Atlas,ATLAS
+Atlas Copco,ATLAS COPC
+Audi,73
+Audi - Europe,EU AUDI
+Ausa,AUSA
+Austin,4
+Austin Healey,1223
+Austin Western,AUSTIN WES
+Autocar,1079
+Avco,847
+Baja Motorsports,BAJA MOTOR
+Baker,BAKER
+Barber Greene,BARBER GRE
+Barr,BARR
+Baudouin,BAUDOUIN
+Bayliner,BAYLINER
+Bedford,BEDFORD
+Belarus,BELARUS
+Bell,BELL
+Bering,1080
+Berkley Jet,BERKLEY JE
+Bluebird,656
+BMS Motorsports,BMS MOTOR
+BMW,31
+BMW - Europe,EU BMW
+Bobcat,853
+Bomag,BOMAG
+Bombardier,1177
+Boss,BOSS
+BPM,BPM
+Briggs & Stratton,BRIGGS & S
+Buhler Genesis,859
+Buhler Versatile,860
+Buick,45
+Bukh,BUKH
+Cadillac,46
+Carrier Transicold,CARRIER TR
+Case,566
+Caterpillar,1081
+Champion,CHAMPION
+Chevrolet,47
+Chevrolet - Europe,EU CHEVY
+Chevrolet Marine Engine,CHEV M ENG
+Chris Craft,CHRIS CRAF
+Chrysler,39
+Chrysler - Europe,EU CHRYSL
+Chrysler Marine Engine,CHRY M ENG
+Citroen - Europe,EU CITROEN
+Citroen LCV - Europe,EU CIT LCV
+Claas,871
+Clark,CLARK
+Club Car,CLUB CAR
+Cockshutt,COCKSHUTT
+Coleman,COLEMAN
+Commander,COMMANDER
+Consolidated Diesel,CONSOL_DIE
+Construction Equipment Co.,CONSTRUCTI
+Continental,570
+Corniver,CORNIVER
+Crusader,CRUSADER
+Cub Cadet,627
+Cummins Engines,CUMMINS EN
+Cummins Fire Power,CUMMINS_FP
+Cummins Marine Engines,CUMMINS
+Cummins Mercruiser,CUMMINS ME
+Cushman,CUSHMAN
+Dacia - Europe,EU DACIA
+Daewoo,18
+Daewoo - Europe,EU DAEWOO
+DAF,547
+DAF - Europe,DAF EU
+Daihatsu,19
+Daihatsu - Europe,EU DAIHAT
+Daihatsu LCV - Europe,EU DAI LCV
+David Brown,DAVID_BROW
+Davy Compressors,DAVY_COMP
+Daytona,DAYTONA
+Dearborn,DEARBORN
+Deines,DEINES
+DeLorean,35
+Dennis - Europe,EU DENNIS
+Detroit Diesel,DETROIT DI
+Deutz,DEUTZ
+Deutz Diter,DEUTZ DITE
+Deutz-Allis,DEUTZ-ALLI
+Deutz-Fahr,879
+Diamond T,DIAMOND T
+Ditch Witch,DITCH_WITC
+DMT Corporation,DMT_CORP
+Dodge,40
+Dodge - Europe,EU DODGE
+Doosan,DOOSAN
+Dorman,DORMAN
+Dow Warner,DOW_WARNER
+Dresser,DRESSER
+Driftech,DRIFTECH
+Drott Mfg.,DROTT MFG.
+Ducati,1183
+Dynapac,DYNAPAC
+Eagle,41
+Eaton,EATON
+Eimco Jarvis Clark,EIMCO_JC
+Elgin Sweeper,ELGIN SWEE
+Enviro-Screene,ENVIRO
+ERF - Europe,EU ERF
+Etnyre,ETNYRE
+Eton,ETON
+Euclid,EUCLID
+Evinrude,EVINRUDE
+EZ-Go,EZ-GO
+Fabtek,FABTEK
+Fahr,FAHR
+Faryman,FARYMAN
+Fendt,886
+Fenner,FENNER
+Fermec,FERMEC
+Ferrari,78
+Fiat,7
+Fiat - Europe,EU FIAT
+Fiat LCV - Europe,EU FIATLCV
+Fiat-Allis,FIAT-ALLIS
+Fiat-Hesston,FIAT-HESST
+Fiat-Hitachi,FIAT-HITAC
+Fisher,FISHER
+Flagship,FLAGSHIP
+Flaherty,FLAHERTY
+Flexi-Coil,FLEXI-COIL
+Flextrac Nodwell,FLEXTRAC
+Floyd,FLOYD
+FNM (CMD),FNM (CMD)
+Foden - Europe,EU FODEN
+Force,FORCE
+Ford,54
+Ford - Europe,EU FORD
+Ford Castoldi,FORD CASTO
+Ford Fenwick,FORD FENWI
+Ford Fornaut,FORD FORNA
+Ford LCV - Europe,EU FORDLCV
+Ford Marine Engine,FORD M ENG
+Fordson,FORDSON
+Freightliner,497
+FSO - Europe,EU FSO
+FSO LCV - Europe,EU FSO LCV
+Fuchs,FUCHS
+Galion,GALION
+Gehl,895
+Generac,GENERAC
+General Propulsion,GENERAL PR
+Genie Industries,GENIE
+Geo,50
+Gilcrest,GILCREST
+Gilling,GILLING
+Glastron,GLASTRON
+Glenwood,GLENWOOD
+GMC,48
+GMI,GMI
+Go Scoot,GO SCOOT
+Godwin,GODWIN
+Goodall,GOODALL
+Gradall,GRADALL
+Grafco,GRAFCO
+Grasshopper,703
+Gravely,704
+Gray,GRAY
+Greenwich,GREENWICH
+Grimmer Schmidt,GRIMMER
+Grove Mfg.,GROVE MFG.
+Guardian,GUARDIAN
+Hale Fire Pump Company,HALE FIRE
+Hamm,HAMM
+Hansen,HANSEN
+Hardin,HARDIN
+Harley Davidson,1187
+Harlo,HARLO
+Harman,HARMAN
+Hatz,HATZ
+Hawkpower,HAWKPOWER
+Hercules,HERCULES
+Hesston,903
+Hino,499
+Hitachi,HITACHI
+Holden - Europe,HOLDEN EU
+Holmann-Moody,HOLMANN-MO
+Honda,59
+Honda - Europe,EU HONDA
+Honda LCV - Europe,EU HON LCV
+Hough,HOUGH
+Huber,HUBER
+Hummer,93
+Husqvarna,629
+Hy-Dynamic,HY-DYNAMIC
+Hyster,HYSTER
+Hyundai,3
+Hyundai - Europe,EU HYUNDAI
+Hyundai LCV - Europe,EU HYU LCV
+Indmar,INDMAR
+Infiniti,68
+Ingersoll Rand,INGERSOLL
+International,71
+Iseki,ISEKI
+Ishikawajima,910
+Isotta Fraschini,473
+Isuzu,37
+Isuzu - Europe,EU ISUZU
+Iveco,IVECO
+Iveco Fiat LCV / Heavy Duty - Europe,EU IVECO
+J.C. Bamford,J.C. BAMFO
+Jackel,JACKEL
+Jacobsen,630
+Jacuzzi Jet,JACUZZI JE
+Jaguar,20
+Jaguar - Europe,EU JAGUAR
+JCB,722
+Jeep,42
+Jeep - Europe,EU JEEP
+Jensen,9
+Jensen - Europe,EU JENSEN
+Jet Edge,JET EDGE
+Jetmoto,JETMOTO
+JGM,JGM
+JLG,JLG
+John Bean,912
+John Deere,725
+Johnson,913
+Joy,JOY
+JS Barnes,JS BARNES
+JSW,JSW
+Jungheinrich,JUNGHEIN
+Kalmar AC,KALMAR AC
+Kamaz - Europe,EU KAMAZ
+Katoh,KATOH
+Kawasaki,729
+Kazuma,KAZUMA
+Keno,KENO
+Kenworth,559
+KHD,KHD
+Kia,21
+Kia - Europe,EU KIA
+Kobelco,KOBELCO
+Kohler,KOHLER
+Komatsu,KOMATSU
+KTM,1193
+Kubota,733
+Kymco,1194
+Lada,90
+Lada - Europe,EU LADA
+Lada LCV - Europe,EU LADALCV
+Lamborghini,38
+Lamborghini-Agricultural,LAMB-AG
+Lancer,LANCER
+Lancia,8
+Lancia - Europe,EU LANCIA
+Land Rover,11
+Land Rover - Europe,EU LAND RO
+Landini,918
+Lathrop,LATHROP
+Lay-Mor,LAY-MOR
+Le Tourneau-Westinghouse,LE TOURNEA
+Lee Boy,LEE BOY
+Lehman,LEHMAN
+Lexus,75
+Lexus - Europe,EU LEXUS
+Leyland DAF,LEYLAND DA
+Leyland DAF - Europe,EU LEY DAF
+Leyland DAF Vans - Europe,EU LEYLAND
+Leyland Nuffield,LEYLAND NU
+Leyland Thornycroft,LEYLAND TH
+Liebherr,LIEBHERR
+Liftmore,LIFTMORE
+Linamar,LINAMAR
+Lincoln,55
+Lincoln Welder,LINCOLN WE
+Linde,LINDE
+Link-Belt,LINK-BELT
+Lister-Blackstone,LISTER-BLA
+Lister-Petter,LISTER-PET
+Lombardini,LOMBARDINI
+Long Tractor,LONG TRACT
+Lotus,84
+Lotus - Europe,EU LOTUS
+LTi (Carbodies) - Europe,EU LTI
+Lucas,LUCAS
+Lynx,LYNX
+Macdon,921
+Mack,496
+Magirus-Deutz,MAGIRUS
+MAN - Europe,EU MAN
+Mando,MANDO
+Mantiou,MANTIOU
+Marine Power,MARINE POW
+Mariner,MARINER
+Massey Ferguson,748
+Maxam,MAXAM
+Maybach,62
+Mazda,80
+Mazda - Europe,EU MAZDA
+McCloskey Brothers,MC CLOSKEY
+McCormick,927
+McCulloch,750
+MCI,MCI
+Medalist,MEDALIST
+Melroe Spra Coupe,MELROE SPR
+Mercedes - Europe,EU MERCED
+Mercedes Heavy Duty - Europe,EU MERC HD
+Mercedes LCV - Europe,EU BENZ CV
+Mercedes-Benz,63
+Mercruiser,MERCRUISER
+Mercury,56
+Merkur,57
+Meyer,MEYER
+MG,64
+MHT,MHT
+Michigan,MICHIGAN
+Miller Applications Technology,MILLER APP
+Miller Electric,MILLER ELE
+Mini,32
+Mini - Europe,EU MINI
+Minneapolis Moline,MINNEAPOLI
+Mitsubishi,72
+Mitsubishi - Europe,EU MITSUB
+Mitsubishi Fuso,500
+Mitsubishi LCV - Europe,EU MIT LCV
+Mitsui-Deutz,MITSUI-DEU
+Moffet,MOFFET
+Monarch,MONARCH
+Morgan - Europe,EU MORGAN
+Moto Guzzi,1196
+Motorola,MOTOROLA
+Mountaineer,MOUNTAINEE
+MQ,MQ
+MTE Hydraulics,MTE HYDRAU
+Murphy Diesel,MURPHY DIE
+Mustang,928
+MWM Diesel,MWM DIESEL
+Nanni,NANNI
+New Holland,932
+New Idea,933
+Niehoff,NIEHOFF
+Nissan,67
+Nissan - Europe,EU NISSAN
+Nissan LCV - Europe,EU NIS LCV
+Northern Lights,NORTHERN L
+Northman,NORTHMAN
+Nova Bus,NOVA BUS
+Oldsmobile,51
+Oliver,OLIVER
+OMC,OMC
+Onan,ONAN
+Opel,22
+Opel - Europe,EU OPEL
+Opel LCV - Europe,EU OPEL CV
+Oshkosh,1090
+Owens Yacht,OWENS YACH
+Palmer,PALMER
+Panther,1218
+Pavemaster,PAVEMASTER
+Penn Yan,PENN YAN
+Perkins,PERKINS
+Peterbilt,560
+Peugeot,28
+Peugeot - Europe,EU PEUGEOT
+Peugeot LCV - Europe,EU PEU LCV
+Pleasurecraft,PLEASURECR
+Plymouth,43
+Poclain,POCLAIN
+Polaris,1200
+Pontiac,52
+Porsche,2
+Porsche - Europe,EU PORSCHE
+Poyaud,POYAUD
+Prairie,PRAIRIE
+Premier,PREMIER
+Prentice,PRENTICE
+Prevost,PREVOST
+Princeton Delivery Systems,PRINCETON
+Prinoth,PRINOTH
+Prochem,PROCHEM
+Proton - Europe,EU PROTON
+PSI,PSI
+Pumptron,PUMPTRON
+Ram,1168
+Rammax,RAMMAX
+Ramrod,RAMROD
+Ramsey,RAMSEY
+Raptor,RAPTOR
+Red D Arc,RED D ARC
+Redcat Motors,1231
+Reliant - Europe,EU RELIANT
+Reliant LCV - Europe,EU RELI CV
+Rem,REM
+Renault,23
+Renault - Europe,EU RENAULT
+Renault Couach,RENAULT CO
+Renault Heavy Duty - Europe,EU REN HD
+Renault LCV - Europe,EU REN LCV
+Rex,REX
+Rigmaster Power Inc.,RIGMAST
+Rogator,ROGATOR
+Rolls Royce,70
+Roper,ROPER
+Rotax Marine - BRP,ROTAX MARI
+Rottne Logging Equipment,ROTTNE
+Rover Group - Europe,EU ROVER
+Rover Group (Austin/Morris) - Europe,EU ROV AM
+Rover Group (Riley) - Europe,EU ROV RI
+Rover Group (Triumph) - Europe,EU ROV TR
+Rover Group (Wolseley) - Europe,EU ROV WO
+Rover Group LCV - Europe,EU ROV CV
+Ruggerini,RUGGERINI
+Saab,65
+Saab - Europe,EU SAAB
+Sabb,SABB
+Sabo,SABO
+Sabre,783
+Same,954
+Samsung,SAMSUNG
+Satoh,SATOH
+Saturn,53
+Scag,786
+Scania,SCANIA
+Scania Heavy Duty - Europe,EU SCAN HD
+Scat Trak,SCAT TRAK
+Schaeff-Namco,SCHAEFF
+Schaffer,SCHAFFER
+Schluter,SCHLUTER
+Schramm,SCHRAMM
+Schwing,SCHWING
+Scion,91
+Scott Atwater,SCOTT ATWA
+Scotts,788
+Sea Bee,SEA BEE
+Sea King,SEA KING
+Sea-Doo,1203
+Sea-Drive,SEA-DRIVE
+Seat,615
+Seat - Europe,EU SEAT
+Seat LCV - Europe,EU SEAT CV
+Seennergie,SEENERGIE
+Sellick,SELLICK
+Shibaura,SHIBAURA
+Shuttlewagon,SHUTTLEWAG
+Simca,438
+Simplicity,790
+Ski-Doo,1204
+Skoda - Europe,EU SKODA
+Skoda LCV - Europe,EU SKODACV
+Skyjack,SKYJACK
+Slanzi,SLANZI
+Smart,484
+Smart (MMC) - Europe,EU SMART
+Smith,SMITH
+Snorkel,SNORKEL
+Sno-Way,SNO-WAY
+Sole Diesel,SOLE DIESE
+Split-Fire,793
+Spra-Coupe,SPRA- COUP
+Spray Monster,SPRAY_MON
+Spray-Air,SPRAY-AIR
+SRT,1230
+Ssangyong - Europe,EU SSANGY
+Star,600
+Starrett,STARRETT
+Steiger,960
+Steiner,794
+Sterling,60
+Stewart & Stevenson,1098
+Steyr,STEYR
+Stone,STONE
+Stone Industries,STONE_IND
+Studebaker,87
+Subaru,13
+Subaru - Europe,EU SUBARU
+Subaru LCV - Europe,EU SUB LCV
+Subaru Small Engine,SUBARU SMA
+Sullair,SULLAIR
+Sumitomo Yale,SUMITOMO Y
+Sunbeam,88
+Suzuki,1
+Suzuki - Europe,EU SUZUKI
+Sweepmaster,SWEEPMAS
+Tadano,TADANO
+Takeuchi,TAKEUCHI
+Talbot - Europe,EU TALBOT
+Talbot Group LCV - Europe,EU TAL LCV
+Tanguay,TANGUAY
+TCM Equipment,TCM EQUIPM
+Tecumseh,TECUMSEH
+Teledyne,TELEDYNE
+Teledyne - Continental,TELEDYNE-C
+Teledyne - Wisconsin,TELEDYNE-W
+Tennant,TENNANT
+Terex,TEREX
+Terramite,TERRAMITE
+Thermo Electron,THERMO ELE
+Thermo King,THERMO KIN
+Thomas Built Bus,THOMAS BUI
+Thomas Equipment,THOMAS EQU
+Tigercat,TIGERCAT
+Timberjack,TIMBERJACK
+Timberking,TIMBERKING
+Timrick,TIMRICK
+Tohatsu,TOHATSU
+Toro,638
+Towmotor,TOWMOTOR
+Toyota,76
+Toyota - Europe,EU TOYOTA
+Toyota LCV - Europe,EU TOY LCV
+Trackless,805
+Trackmobile,TRACKMOB
+Triumph,14
+Tropical Diesel Generators,TROPICAL
+TVR - Europe,EU TVR
+U.S.,U.S.
+UD,498
+Universal,UNIVERSAL
+Valday Heavy Duty - Europe,EU VALD HD
+Valeo,VALEO
+Valtra Valmet,VALTRA
+Vauxhall - Europe,EU VAUXH
+Vermeer,1156
+Versatile,969
+Vetus,VETUS
+Victory,1207
+VM (Stabilimenti Meccanici),VM (STABIL
+Volkswagen,74
+Volkswagen - Europe,EU VW
+Volkswagen LCV - Europe,EU VW LCV
+Volvo,27
+Volvo - Europe,EU VOLVO
+Volvo Heavy Duty - Europe,EU VOLVOHD
+Volvo Penta,VOLVO PENT
+Wabco,WABCO
+Wacker,WACKER
+Walker,640
+Warn Industries,WARN_IND
+Waukesha,WAUKESHA
+West Bend,WEST BEND
+Westerbeke,WESTERBEKE
+Western Products,WESTERN PR
+Western Star,1102
+Westward,WESTWARD
+White,974
+White (Cockshutt),WHITE (COC
+White (Mpls Moline),WHITE (MPL
+White (Oliver),WHITE (OLI
+White (Rio Division),WHITE (RIO
+Whiting Corporation,WHITING
+Willmar,WILLMAR
+Wisconsin,WISCONSIN
+Wisconsin Hydraulics,WISCON_HYD
+Wisconsin Robbins,WISCONSINR
+Yale,YALE
+Yamaha,1210
+Yanmar,YANMAR
+Yugo,15
+Yugo - Europe,EU YUGO
+Yugo LCV - Europe,EU YUGO LC
+Zetor,ZETOR
