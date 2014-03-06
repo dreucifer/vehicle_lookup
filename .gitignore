@@ -37,6 +37,7 @@ nosetests.xml
 
 # sqlite database files
 *.db
+*-journal*
 
 # swap files
 *.swp
@@ -48,3 +49,6 @@ lib/
 lib64/
 include/
 pysqlite2-doc
+
+# misc
+log.txt

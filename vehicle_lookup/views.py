@@ -1,9 +1,12 @@
+""" This holds the view logic and URL information """
 from flask import redirect, url_for, request, render_template
 from flask.ext.admin.contrib.sqla import ModelView
 from wtforms.fields import SelectField
 from vehicle_lookup import app, admin
 from vehicle_lookup.models import Year, Part, Make, Model, Engine, Type
-from vehicle_lookup.helpers import get_or_create
+from vehicle_lookup.helpers import (
+        get_or_create, get_makes, get_types,
+        get_models, get_years, get_engines)
 import vehicle_lookup.database as db
 import flask.json as json
 
@@ -23,6 +26,8 @@ admin.add_view(MyPartAdmin(Part, db.session))
 
 @app.route('/')
 def index():
+    """ Render the basic template """
+    app.logger.info('test')
     return render_template('index.html')
 
 @app.route('/vehicle', methods=['POST','GET'])
@@ -55,7 +60,7 @@ def vlmake():
 
 @app.route('/vltype', methods=['POST', 'GET'])
 def vltype():
-    make = request.values.get('make', None, type=str)
+    make = request.values.get('make', None, type=int)
     data = []
     if make:
         status = 'Success'
@@ -64,28 +69,29 @@ def vltype():
         status = 'Failure'
     return json.dumps({ 'status': status, 'data': data })
 
-def get_makes():
-    for make in Make.query.order_by('name').all():
-        yield make.serialize
+@app.route('/vlmodel', methods=['POST', 'GET'])
+def vlmodel():
+    data = []
+    make = request.values.get('make', None, type=int)
+    vtype = request.values.get('type', None, type=str)
+    if make and vtype:
+        status = 'Success'
+        data = list(get_models(make, vtype))
+    else:
+        status = 'Failure'
+    return json.dumps({'status': status, 'data': data})
 
-def get_types(make):
-    make = Make.query.filter_by(name = make).first()
-    for vtype in sorted(make.types,
-            key = lambda x: x.name):
-        yield vtype.serialize
+@app.route('/vlyear', methods=['POST', 'GET'])
+def vlyear():
+    data = []
+    model = request.values.get('model', None, type=int)
+    if model:
+        status = 'Success'
+        data = list(get_years(model))
+    else:
+        status = 'Failure'
 
-def get_models(make, vehicle_type):
-    pass
-
-def get_years(make, vehicle_type, model):
-    pass
-
-def get_engines(make, vehicle_type, model, year):
-    pass
-
-def get_vehicle(make, vehicle_type, model, year, engine):
-    pass
-
+    return json.dumps({'status': status, 'data': data})
 
 @app.route('/parts')
 @app.route('/pt')

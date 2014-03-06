@@ -13,39 +13,44 @@ class Level():
 
     @property
     def serialize(self):
-        return self.name
+        return {'Name': self.name, 'ID': self.id_}
 
+
+make_type = Table('make_type', db.Base.metadata,
+        Column('make_id', Integer, ForeignKey('makes.id_'), primary_key=True),
+        Column('type_id', Integer, ForeignKey('types.id_'), primary_key=True))
 
 class Make(Level, db.Base):
     __tablename__ = 'makes'
 
+    types = relationship('Type', secondary=make_type, lazy='dynamic')
 
 
 class Type(Level, db.Base):
     __tablename__ = 'types'
 
-    make_id = Column(Integer, ForeignKey('makes.id_'))
-    make = relationship('Make', backref='types')
 
-
-modelyear_engine = Table('modelyear_engine', db.Base.metadata,
+modelyear = Table('modelyear', db.Base.metadata,
         Column('model_id', Integer, ForeignKey('models.id_'), primary_key=True),
-        Column('year_id', Integer, ForeignKey('years.id_'), primary_key=True),
-        Column('engine_id', Integer, ForeignKey('engines.id_')))
+        Column('year_id', Integer, ForeignKey('years.id_'), primary_key=True))
+
+class ModelYearEngine(Level, db.Base):
+    __tablename__ = 'modelyearengine'
+
+    model_id = Column(Integer, ForeignKey('models.id_'))
+    year_id = Column(Integer, ForeignKey('years.id_'))
+    engine_id = Column(Integer, ForeignKey('engines.id_'))
+    engine = relationship('Engine')
 
 class Model(Level, db.Base):
     __tablename__ = 'models'
 
-    type_id = Column(Integer, ForeignKey('types.id_'), primary_key=True)
-    make_id = Column(Integer, ForeignKey('makes.id_'), primary_key=True)
+    type_id = Column(Integer, ForeignKey('types.id_'), nullable=False)
+    make_id = Column(Integer, ForeignKey('makes.id_'), nullable=False)
     make = relationship('Make', uselist=False)
     type_ = relationship('Type', uselist=False)
-    years = relationship('Year',
-            lazy='dynamic',
-            secondary=modelyear_engine)
-    engines = relationship('Engine',
-            lazy='dynamic',
-            secondary=modelyear_engine)
+    years = relationship('Year', secondary=modelyear, lazy='dynamic')
+    engines = relationship('ModelYearEngine')
 
 
 class Year(Level, db.Base):

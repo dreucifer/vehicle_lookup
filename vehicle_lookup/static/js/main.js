@@ -1,6 +1,6 @@
 function unload_list(dom) {
     $(dom).html(
-            "<option val='-1' selected>Select a " + $(dom).attr("id") + "</option>"
+            "<option value='-1' selected>Select a " + $(dom).attr("id") + "</option>"
             );
     $(dom).prop("disabled", true);
 }
@@ -10,7 +10,7 @@ function load_list(dom, params) {
         .done(function( response ) {
             var obj = $.parseJSON(response);
             $.each( obj.data, function( i, item) {
-                $("#"+dom).append("<option>"+item+"</option>");
+                $("#"+dom).append("<option value='" + item['ID'] + "'>" + item['Name'] + "</option>");
             });
             $("#"+dom).prop("disabled", false);
         })
@@ -62,15 +62,15 @@ $(function(){
         unload_list("#type");
         load_list("type", {
             make: $(this).val()});
-        unload_list("model");
-        unload_list("year");
-        unload_list("engine");
+        unload_list("#model");
+        unload_list("#year");
+        unload_list("#engine");
     });
 
     $("#type").on("change", function(){
         console.log($(this).attr("id") + " changed to " + $(this).val());
         unload_list("#model");
-        load_list("#model", {
+        load_list("model", {
             make: $('#make').val(),
             type: $(this).val()});
         unload_list("#year");
@@ -80,9 +80,7 @@ $(function(){
     $("#model").on("change", function(){
         console.log($(this).attr("id") + " changed to " + $(this).val());
         unload_list("#year");
-        load_list("#year", {
-            make: $("#make").val(),
-            type: $("#type").val(),
+        load_list("year", {
             model: $(this).val()});
         unload_list("#engine");
     });
@@ -90,9 +88,7 @@ $(function(){
     $("#year").on("change", function(){
         console.log($(this).attr("id") + " changed to " + $(this).val());
         unload_list("#engine");
-        load_list("#engine", {
-            make: $("#make").val(),
-            type: $("#type").val(),
+        load_list("engine", {
             model: $("#model").val(),
             year: $(this).val()});
     });
